@@ -16,5 +16,5 @@
 
 ## Community
 
-- [README.zh-CN.md](README.zh-CN.md) — 中文简介
-
+- [中文简介](README.zh-CN.md)
+- 完整翻译版： [README.zh-CN.md](../README.zh-CN.md) · [README.fr.md](../README.fr.md) · [README.de.md](../README.de.md)

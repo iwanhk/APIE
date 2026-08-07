@@ -1,9 +1,6 @@
 <div align="center">
 
-![APIE](assets/logo.svg)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/iwanhk/APIE/schema-validation.yml?branch=main&label=CI)](.github/workflows/ci.yml)
+<img src="assets/logo.png" alt="APIE" width="240"/>
 
 # 🥧 APIE — AI Product Innovation Engine
 
@@ -11,17 +8,19 @@
 
 Learn from the world's greatest products. Build the next one.
 
+**🌐 [中文](README.zh-CN.md) · [Français](README.fr.md) · [Deutsch](README.de.md)**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![CI](https://img.shields.io/github/actions/workflow/status/iwanhk/APIE/schema-validation.yml?branch=main&label=CI)](.github/workflows/ci.yml)
+[![GitHub stars](https://img.shields.io/github/stars/iwanhk/APIE?style=social)](https://github.com/iwanhk/APIE)
+
 </div>
 
 ---
 
 > **Every great product starts with A PIE.**
 
-APIE teaches AI **how great products are built** — not how to write a PRD.
-
-It is an open, machine-readable knowledge base that documents *why* Apple, Cursor, ChatGPT, TikTok, and Robinhood succeeded — then combines those reasons into the next generation of products.
-
----
+APIE teaches AI **how great products are built** — not how to write a PRD. It is an open, machine-readable knowledge base that documents *why* Apple, Cursor, ChatGPT, TikTok, and Robinhood succeeded — then combines those reasons into the next generation of products.
 
 ## The Core Philosophy
 
@@ -31,7 +30,7 @@ APIE exists because most "AI product" knowledge is locked inside a handful of es
 
 - **Every product** is one Markdown file with a unified schema.
 - **Every pattern** is one Markdown file with a unified schema.
-- **Everything** is compiled into JSON datasets for programmatic use.
+- **Everything** compiles into JSON datasets for programmatic use.
 - **Cross-domain transfer** (the part no one else builds) turns patterns from one industry into innovations in another.
 
 ## Why This Is Not "Another Awesome List"
@@ -54,6 +53,18 @@ That difference is why APIE is an **open standard**, not a collection:
 
 Anyone can submit a product analysis, a design pattern, or an innovation case. If it follows the schema, it is automatically indexed and reusable.
 
+## What's Inside
+
+| Library | Count | Directory |
+| --- | --- | --- |
+| Product teardowns | 3 (Cursor, Lovable, Robinhood) | [products/](products/README.md) |
+| Patterns | 5 | [patterns/](patterns/README.md) |
+| Features | 6 | [features/](features/README.md) |
+| UX flows | 4 | [ux-flows/](ux-flows/README.md) |
+| Cross-domain transfers | 1 | [cross-domain/](cross-domain/README.md) |
+| Business models | 1 | [business-models/](business-models/README.md) |
+| JSON datasets | 7 | [datasets/](datasets/README.md) |
+
 ## Repository Layout
 
 ```text
@@ -66,7 +77,7 @@ APIE/
 ├── PRODUCTS.md             # product index
 ├── PATTERNS.md             # pattern index
 ├── SKILLS.md               # skill index
-├── docs/                   # schemas, daily pipeline, reports
+├── docs/                   # schemas, daily pipeline, reports, launch kit
 ├── datasets/               # machine-readable JSON (auto-built)
 ├── products/               # product teardowns, one file per product
 ├── patterns/               # the pattern library — project core
@@ -117,7 +128,7 @@ APIE grows every day. The daily pipeline produces five kinds of content:
 | 4 | **Innovation Challenge** — two random products, 20 generated innovations | `examples/` |
 | 5 | **Weekly Pattern Report** — weekly synthesis of the last 7 days | `docs/reports/` |
 
-See [docs/DAILY-PIPELINE.md](docs/DAILY-PIPELINE.md) for the full workflow, automation options, and quality gates.
+Automation runs daily at 02:00 UTC (= 10:00 Asia/Shanghai). See [docs/DAILY-PIPELINE.md](docs/DAILY-PIPELINE.md) and [docs/DAILY-TASK.md](docs/DAILY-TASK.md).
 
 ## Getting Started
 
@@ -127,14 +138,22 @@ See [docs/DAILY-PIPELINE.md](docs/DAILY-PIPELINE.md) for the full workflow, auto
 
 **To contribute:** see [CONTRIBUTING.md](CONTRIBUTING.md). Every file follows a schema and every fact carries a source and an "as of" date.
 
+**Launch kit** (repository story, Show HN / Product Hunt / X drafts, daily content templates): [docs/launch](docs/launch/).
+
 ## Status
 
-**v0.1 — Public release.** Five open standards v1; 3 product teardowns (Cursor, Lovable, Robinhood); 5 patterns; 6 features; 4 UX flows; cross-domain transfers; working dataset builder + daily pipeline automation. Rebuilt and validated by CI on every push. See [ROADMAP.md](ROADMAP.md).
-
-## Launch Kit
-
-Repository, launch copy, and daily content templates: [docs/launch](docs/launch/).
+**v0.1 — Public release.** Five open standards v1; 3 product teardowns; 5 patterns; 6 features; 4 UX flows; cross-domain transfers; working dataset builder + CI + daily pipeline automation. Rebuilt and validated on every push. See [ROADMAP.md](ROADMAP.md).
 
 ## License
 
 MIT — [LICENSE](LICENSE). Knowledge wants to be combined.
+
+---
+
+<div align="center">
+
+**🥧 Every great product starts with A PIE.**
+
+If APIE helped you think, [give it a star](https://github.com/iwanhk/APIE) ⭐
+
+</div>
