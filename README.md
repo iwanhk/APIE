@@ -2,6 +2,9 @@
 
 ![APIE](assets/logo.svg)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![CI](https://img.shields.io/github/actions/workflow/status/<OWNER>/APIE/schema-validation.yml?branch=main&label=CI)](.github/workflows/ci.yml)
+
 # 🥧 APIE — AI Product Innovation Engine
 
 **The Open Product Innovation Knowledge Base for AI.**
@@ -126,9 +129,12 @@ See [docs/DAILY-PIPELINE.md](docs/DAILY-PIPELINE.md) for the full workflow, auto
 
 ## Status
 
-**v0.1 — Foundation.** Repository scaffold, five open standards v1, first seed content (Cursor teardown, Recommendation & Memory patterns, Netflix → Investment transfer), dataset builder, and pipeline documentation are live. See [ROADMAP.md](ROADMAP.md).
+**v0.1 — Public release.** Five open standards v1; 3 product teardowns (Cursor, Lovable, Robinhood); 5 patterns; 6 features; 4 UX flows; cross-domain transfers; working dataset builder + daily pipeline automation. Rebuilt and validated by CI on every push. See [ROADMAP.md](ROADMAP.md).
+
+## Launch Kit
+
+Repository, launch copy, and daily content templates: [docs/launch](docs/launch/).
 
 ## License
 
 MIT — [LICENSE](LICENSE). Knowledge wants to be combined.
-

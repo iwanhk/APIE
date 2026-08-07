@@ -1,0 +1,38 @@
+name: schema-validation
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate schemas
+        run: python3 scripts/build_dataset.py --validate
+      - name: Verify relative links
+        run: |
+          python3 - <<'EOF'
+          import re
+          from pathlib import Path
+          bad, checked = [], 0
+          for f in Path('.').rglob('*.md'):
+              if '_private' in f.parts:
+                  continue
+              text = f.read_text(encoding='utf-8')
+              for m in re.finditer(r'\[[^\]]*\]\(([^)]+)\)', text):
+                  t = m.group(1)
+                  if t.startswith(('http://', 'https://', '#', 'mailto:')):
+                      continue
+                  checked += 1
+                  if not (f.parent / t.split('#')[0]).resolve().exists():
+                      bad.append(f'{f}: {t}')
+          if bad:
+              raise SystemExit(f'broken links: {bad}')
+          print(f'ok: {checked} relative links')
+          EOF

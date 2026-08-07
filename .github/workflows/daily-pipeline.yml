@@ -1,0 +1,31 @@
+name: daily-pipeline
+
+on:
+  schedule:
+    # 02:00 UTC = 10:00 Asia/Shanghai
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  crawl-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Crawl Hacker News
+        run: python3 scripts/crawl_hn.py --days 1
+        continue-on-error: true
+      - name: Crawl GitHub
+        run: python3 scripts/crawl_github.py --days 1 || echo "github crawl skipped (rate limit)"
+        continue-on-error: true
+      - name: Rebuild datasets
+        run: python3 scripts/build_dataset.py --quiet
+      - name: Validate
+        run: python3 scripts/build_dataset.py --validate
+      - name: Auto-commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: daily pipeline refresh"
+
