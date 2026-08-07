@@ -5,6 +5,7 @@ The APIE pipeline. All scripts are stdlib-only Python — no dependency tax.
 | Script | Purpose | Status |
 | --- | --- | --- |
 | [build_dataset.py](build_dataset.py) | scan Markdown frontmatter → validate → write `datasets/*.json` | ✅ working |
+| [install_skill.py](install_skill.py) | install the APIE Brain skill into Codex / Claude / Cursor | ✅ working |
 | [crawl_hn.py](crawl_hn.py) | fetch HN stories matching AI/product keywords (Algolia API, no key) | ✅ working |
 | [crawl_github.py](crawl_github.py) | search GitHub repos with AI topic (token recommended) | ⚠️ needs token for volume |
 | [crawl_producthunt.py](crawl_producthunt.py) | Product Hunt launches via GraphQL | ⚠️ needs `PH_API_TOKEN` |
@@ -26,4 +27,3 @@ python3 scripts/crawl_hn.py --days 1
 ```
 
 Outputs land in `datasets/*.json`; raw crawls land in `datasets/raw/` (gitignored).
-

@@ -1,0 +1,4 @@
+interface:
+  display_name: "APIE Brain"
+  short_description: "Product innovation engine: patterns to concepts"
+  default_prompt: "Use $apie-brain to design a new product concept from APIE's patterns and datasets."

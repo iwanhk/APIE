@@ -136,6 +136,8 @@ Automation runs daily at 02:00 UTC (= 10:00 Asia/Shanghai). See [docs/DAILY-PIPE
 
 **For AI agents:** read `docs/SCHEMAS.md`, load `datasets/*.json`, and follow the Brain protocol in `innovation-engine/README.md`. The schemas guarantee the content is consistent enough to be indexed without cleaning.
 
+**Install the APIE Brain skill** (Codex, Claude Code, Cursor): `python3 scripts/install_skill.py --tool codex` — see [skills/README.md](skills/README.md).
+
 **To contribute:** see [CONTRIBUTING.md](CONTRIBUTING.md). Every file follows a schema and every fact carries a source and an "as of" date.
 
 **Launch kit** (repository story, Show HN / Product Hunt / X drafts, daily content templates): [docs/launch](docs/launch/).

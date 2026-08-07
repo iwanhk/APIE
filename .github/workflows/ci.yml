@@ -25,6 +25,7 @@ jobs:
               if '_private' in f.parts:
                   continue
               text = f.read_text(encoding='utf-8')
+              text = re.sub(r'```.*?```', '', text, flags=re.S)  # skip code fences
               for m in re.finditer(r'\[[^\]]*\]\(([^)]+)\)', text):
                   t = m.group(1)
                   if t.startswith(('http://', 'https://', '#', 'mailto:')):
