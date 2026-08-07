@@ -1,0 +1,25 @@
+# Product Index
+
+Every product teardown follows [APIE Product Schema v1](docs/APIE-Product-Schema-v1.md).
+
+## Complete Teardowns
+
+| Product | Company | Category | File | Last updated |
+| --- | --- | --- | --- | --- |
+| Cursor | Anysphere | AI / Developer Tools | [products/AI/Cursor.md](products/AI/Cursor.md) | 2026-08-07 |
+| Lovable | Lovable | AI / App Generation | [products/AI/Lovable.md](products/AI/Lovable.md) | 2026-08-07 |
+| Robinhood | Robinhood Markets | FinTech / Retail Brokerage | [products/FinTech/Robinhood.md](products/FinTech/Robinhood.md) | 2026-08-07 |
+
+## Watchlist (to be torn down)
+
+**AI:** ChatGPT, Claude, Perplexity, Replit, Gamma, Granola, Mercor, Windsurf, Harvey
+
+**FinTech:** Coinbase, Carta, Stripe, Plaid, Mercury, Wise
+
+**SaaS:** Notion, Linear, Figma, Slack, GitHub, Shopify, Airtable, Intercom
+
+**Consumer:** TikTok, Netflix, Spotify, Pinterest, Airbnb, Uber, Duolingo, Strava
+
+## How to Add
+
+Copy [products/_TEMPLATE.md](products/_TEMPLATE.md), fill every section with sourced facts, run `python3 scripts/build_dataset.py`, then update this table. Full rules: [CONTRIBUTING.md](CONTRIBUTING.md).

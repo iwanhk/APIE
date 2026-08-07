@@ -1,0 +1,23 @@
+{
+  "schema": "APIE-Top100-Watchlist-v0",
+  "generated_at": "2026-08-07",
+  "count": 14,
+  "notes": "Curated watchlist. Products graduate to a full teardown in products/ when a teardown is published.",
+  "items": [
+    {"rank": 1, "name": "Cursor", "category": "AI", "reason": "Defined agentic coding; parallel agents + in-house model; fastest-ever SaaS scaling", "status": "teardown-done", "added": "2026-08-07"},
+    {"rank": 2, "name": "ChatGPT", "category": "AI", "reason": "Brought LLMs to the mass market; memory + artifacts turned chat into a workspace", "status": "planned", "added": "2026-08-07"},
+    {"rank": 3, "name": "Claude", "category": "AI", "reason": "Long-context + agentic coding leadership; enterprise trust positioning", "status": "planned", "added": "2026-08-07"},
+    {"rank": 4, "name": "Perplexity", "category": "AI", "reason": "Citations-first answer engine; search category redefinition", "status": "planned", "added": "2026-08-07"},
+    {"rank": 5, "name": "Lovable", "category": "AI", "reason": "Vibe-coding to production app; no-code AI build loop", "status": "planned", "added": "2026-08-07"},
+    {"rank": 6, "name": "Replit", "category": "AI", "reason": "Browser-based dev environment + agent; autonomous build loop", "status": "planned", "added": "2026-08-07"},
+    {"rank": 7, "name": "Robinhood", "category": "FinTech", "reason": "Gamified, zero-friction consumer investing; behavioral product design", "status": "planned", "added": "2026-08-07"},
+    {"rank": 8, "name": "Stripe", "category": "FinTech", "reason": "Developer-first payments; modular financial infrastructure", "status": "planned", "added": "2026-08-07"},
+    {"rank": 9, "name": "Notion", "category": "SaaS", "reason": "Blocks as universal substrate; template network effects", "status": "planned", "added": "2026-08-07"},
+    {"rank": 10, "name": "Linear", "category": "SaaS", "reason": "Speed as product philosophy; keyboard-first power UX", "status": "planned", "added": "2026-08-07"},
+    {"rank": 11, "name": "TikTok", "category": "Consumer", "reason": "Implicit-signal recommendation engine; the feed is the product", "status": "planned", "added": "2026-08-07"},
+    {"rank": 12, "name": "Netflix", "category": "Consumer", "reason": "Catalog-to-attention machine; recommendation at industrial scale", "status": "planned", "added": "2026-08-07"},
+    {"rank": 13, "name": "Spotify", "category": "Consumer", "reason": "Taste modeling + Wrapped; personalization made social", "status": "planned", "added": "2026-08-07"},
+    {"rank": 14, "name": "Airbnb", "category": "Consumer", "reason": "Two-sided marketplace trust engineering", "status": "planned", "added": "2026-08-07"}
+  ]
+}
+

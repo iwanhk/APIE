@@ -1,0 +1,50 @@
+{
+  "schema": "APIE-Skill-Schema-v1",
+  "generated_at": "2026-08-07T03:30:53Z",
+  "count": 2,
+  "items": [
+    {
+      "id": "cross-innovation",
+      "type": "skill",
+      "name": "Cross-Innovation",
+      "skill_type": "combination",
+      "tags": [
+        "ideation",
+        "cross-domain",
+        "combination"
+      ],
+      "inputs": [
+        "product-a",
+        "product-b"
+      ],
+      "outputs": [
+        "examples/Innovation-Challenge-<A>-x-<B>.md"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "skills/Cross-Innovation.md",
+      "title": "Cross-Innovation"
+    },
+    {
+      "id": "product-reverse-engineer",
+      "type": "skill",
+      "name": "Product Reverse Engineer",
+      "skill_type": "analysis",
+      "tags": [
+        "reverse-engineering",
+        "teardown",
+        "analysis"
+      ],
+      "inputs": [
+        "product-name",
+        "source-material-or-urls"
+      ],
+      "outputs": [
+        "products/<Category>/<Product>.md",
+        "PRODUCTS.md update"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "skills/Product-Reverse-Engineer.md",
+      "title": "Product Reverse Engineer"
+    }
+  ]
+}

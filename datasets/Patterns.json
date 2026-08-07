@@ -1,0 +1,84 @@
+{
+  "schema": "APIE-Pattern-Schema-v1",
+  "generated_at": "2026-08-07T03:30:53Z",
+  "count": 5,
+  "items": [
+    {
+      "id": "curation",
+      "type": "pattern",
+      "name": "Curation",
+      "status": "established",
+      "tags": [
+        "trust",
+        "selection",
+        "discovery",
+        "premium"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "patterns/Curation.md",
+      "title": "Curation"
+    },
+    {
+      "id": "memory",
+      "type": "pattern",
+      "name": "Memory",
+      "status": "emerging",
+      "tags": [
+        "ai",
+        "personalization",
+        "context",
+        "retention"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "patterns/Memory.md",
+      "title": "Memory"
+    },
+    {
+      "id": "recommendation",
+      "type": "pattern",
+      "name": "Recommendation Engine",
+      "status": "established",
+      "tags": [
+        "personalization",
+        "ranking",
+        "discovery",
+        "engagement"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "patterns/Recommendation.md",
+      "title": "Recommendation Engine"
+    },
+    {
+      "id": "suitability-matching",
+      "type": "pattern",
+      "name": "Suitability Matching",
+      "status": "emerging",
+      "tags": [
+        "finance",
+        "compliance",
+        "risk",
+        "personalization",
+        "guardrails"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "patterns/Suitability-Matching.md",
+      "title": "Suitability Matching"
+    },
+    {
+      "id": "trust-evidence-layer",
+      "type": "pattern",
+      "name": "Trust / Evidence Layer",
+      "status": "emerging",
+      "tags": [
+        "trust",
+        "verification",
+        "citations",
+        "compliance",
+        "ai"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "patterns/Trust-Evidence-Layer.md",
+      "title": "Trust / Evidence Layer"
+    }
+  ]
+}

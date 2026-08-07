@@ -1,0 +1,92 @@
+{
+  "schema": "APIE-Product-Schema-v1",
+  "generated_at": "2026-08-07T03:30:53Z",
+  "count": 3,
+  "items": [
+    {
+      "id": "cursor",
+      "type": "product",
+      "name": "Cursor",
+      "category": "AI",
+      "company": "Anysphere",
+      "founded": "2022",
+      "status": "acquired",
+      "tags": [
+        "developer-tools",
+        "ai-code-editor",
+        "agentic-coding",
+        "ai-workspace"
+      ],
+      "last_updated": "2026-08-07",
+      "sources": [
+        "https://www.thepaper.cn/newsDetail_forward_33398035",
+        "https://www.cnbc.com/2026/05/19/cursor-cnbc-disruptor-50-ranking.html",
+        "https://thenextweb.com/news/cursor-anysphere-2-billion-funding-50-billion-valuation-ai-coding",
+        "https://cursor.com/blog/2-0",
+        "https://www.infoworld.com/article/4081431/cursor-2-0-adds-coding-model-ui-for-parallel-agents.html",
+        "https://research.contrary.com/company/cursor",
+        "https://pitchbook.com/news/articles/anysphere-cursor-ai-coding-doubling-valuation-every-8-weeks"
+      ],
+      "file": "products/AI/Cursor.md",
+      "title": "Cursor"
+    },
+    {
+      "id": "lovable",
+      "type": "product",
+      "name": "Lovable",
+      "category": "AI",
+      "company": "Lovable (Stockholm, Sweden)",
+      "founded": "2023",
+      "status": "active",
+      "tags": [
+        "vibe-coding",
+        "app-generation",
+        "no-code",
+        "ai-developer",
+        "full-stack"
+      ],
+      "last_updated": "2026-08-07",
+      "sources": [
+        "https://lovable.dev/gpt-engineer",
+        "https://en.wikipedia.org/wiki/Lovable_(company)",
+        "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
+        "https://www.businessinsider.com/lovable-arr-hit-500-million-surprising-facts-about-its-users-2026-6",
+        "https://www.forbes.com/sites/rashishrivastava/2026/06/05/ai-coding-startup-lovable-in-talks-to-raise-funding-at-a-12-billion-valuation/",
+        "https://europeanbusinessmagazine.com/business-lovable-price-bets-suppliers/",
+        "https://www.kucoin.com/news/flash/ai-startup-lovable-projects-1b-arr-attracts-crypto-vcs",
+        "https://www.taskade.com/blog/lovable-history"
+      ],
+      "file": "products/AI/Lovable.md",
+      "title": "Lovable"
+    },
+    {
+      "id": "robinhood",
+      "type": "product",
+      "name": "Robinhood",
+      "category": "FinTech",
+      "company": "Robinhood Markets, Inc.",
+      "founded": "2013",
+      "status": "active",
+      "tags": [
+        "retail-brokerage",
+        "zero-commission",
+        "gamification",
+        "subscription",
+        "prediction-markets"
+      ],
+      "last_updated": "2026-08-07",
+      "sources": [
+        "https://www.investmentnews.com/equities/robinhood-caps-record-2025-with-q4-revenue-surge-but-shares-fall-on-investor-concerns/265225",
+        "https://www.marketscreener.com/news/robinhood-markets-q4-quarterly-results-03b793-ce7e5cddd98bf121",
+        "https://finance.yahoo.com/news/robinhood-beats-wall-street-expectations-004639028.html",
+        "https://www.theblock.co/post/410102/robinhoods-prediction-markets-top-crypto-and-equities-revenue-in-q2",
+        "https://www.pymnts.com/earnings/2026/robinhood-feels-chill-as-crypto-slump-cools-revenue/",
+        "https://finance.yahoo.com/markets/crypto/articles/robinhood-posts-best-quarter-ever-220124038.html",
+        "https://baike.baidu.com/item/Robinhood/67394883",
+        "https://www.npr.org/2021/04/07/985041291/robinhood-vlad-tenev"
+      ],
+      "file": "products/FinTech/Robinhood.md",
+      "title": "Robinhood"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "schema": "APIE-Feature-Schema-v1",
+  "generated_at": "2026-08-07T03:30:53Z",
+  "count": 6,
+  "items": [
+    {
+      "id": "ai-chat",
+      "type": "feature",
+      "name": "AI Chat",
+      "tags": [
+        "ai",
+        "chat",
+        "assistant",
+        "conversational"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "features/AI-Chat.md",
+      "title": "AI Chat"
+    },
+    {
+      "id": "curated-shortlist",
+      "type": "feature",
+      "name": "Curated Weekly Shortlist",
+      "tags": [
+        "curation",
+        "suitability",
+        "discovery",
+        "finance",
+        "personalization"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "features/Curated-Shortlist.md",
+      "title": "Curated Weekly Shortlist"
+    },
+    {
+      "id": "education-path",
+      "type": "feature",
+      "name": "Education Path",
+      "tags": [
+        "education",
+        "personalization",
+        "learning",
+        "finance",
+        "onboarding"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "features/Education-Path.md",
+      "title": "Education Path"
+    },
+    {
+      "id": "fund-compare",
+      "type": "feature",
+      "name": "Fund Compare",
+      "tags": [
+        "finance",
+        "comparison",
+        "plain-language",
+        "transparency"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "features/Fund-Compare.md",
+      "title": "Fund Compare"
+    },
+    {
+      "id": "fund-passport",
+      "type": "feature",
+      "name": "Fund Passport",
+      "tags": [
+        "finance",
+        "trust",
+        "plain-language",
+        "evidence",
+        "funds"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "features/Fund-Passport.md",
+      "title": "Fund Passport"
+    },
+    {
+      "id": "semantic-search",
+      "type": "feature",
+      "name": "Semantic Search",
+      "tags": [
+        "search",
+        "embeddings",
+        "retrieval",
+        "knowledge"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "features/Semantic-Search.md",
+      "title": "Semantic Search"
+    }
+  ]
+}

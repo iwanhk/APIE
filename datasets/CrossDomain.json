@@ -1,0 +1,19 @@
+{
+  "schema": "APIE-Cross-Domain-Schema-v1",
+  "generated_at": "2026-08-07T03:30:53Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "netflix-recommendation-to-investment",
+      "type": "cross-domain",
+      "name": "Netflix Recommendation → Investment",
+      "source_domain": "Consumer Media",
+      "target_domain": "FinTech / Investment",
+      "source_pattern": "patterns/Recommendation.md",
+      "status": "hypothesis",
+      "last_updated": "2026-08-07",
+      "file": "cross-domain/Netflix-Recommendation-to-Investment.md",
+      "title": "Netflix Recommendation → Investment"
+    }
+  ]
+}

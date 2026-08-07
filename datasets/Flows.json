@@ -1,0 +1,63 @@
+{
+  "schema": "APIE-Flow-Schema-v1",
+  "generated_at": "2026-08-07T03:30:53Z",
+  "count": 4,
+  "items": [
+    {
+      "id": "ai-chat-session",
+      "type": "flow",
+      "name": "AI Chat Session",
+      "tags": [
+        "ai",
+        "chat",
+        "assistant",
+        "conversational"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "ux-flows/AI-Chat.md",
+      "title": "AI Chat Session"
+    },
+    {
+      "id": "fund-deep-dive",
+      "type": "flow",
+      "name": "Fund Deep-Dive",
+      "tags": [
+        "finance",
+        "education",
+        "decision",
+        "ai-boundary"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "ux-flows/Fund-Deep-Dive.md",
+      "title": "Fund Deep-Dive"
+    },
+    {
+      "id": "lp-onboarding",
+      "type": "flow",
+      "name": "LP Onboarding",
+      "tags": [
+        "onboarding",
+        "suitability",
+        "finance",
+        "profile"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "ux-flows/LP-Onboarding.md",
+      "title": "LP Onboarding"
+    },
+    {
+      "id": "weekly-shortlist",
+      "type": "flow",
+      "name": "Weekly Shortlist Review",
+      "tags": [
+        "shortlist",
+        "curation",
+        "finance",
+        "habit"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "ux-flows/Weekly-Shortlist.md",
+      "title": "Weekly Shortlist Review"
+    }
+  ]
+}
