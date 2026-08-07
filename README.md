@@ -3,7 +3,7 @@
 ![APIE](assets/logo.svg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/<OWNER>/APIE/schema-validation.yml?branch=main&label=CI)](.github/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/iwanhk/APIE/schema-validation.yml?branch=main&label=CI)](.github/workflows/ci.yml)
 
 # 🥧 APIE — AI Product Innovation Engine
 
