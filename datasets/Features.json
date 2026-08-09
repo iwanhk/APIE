@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Feature-Schema-v1",
-  "generated_at": "2026-08-07T03:30:53Z",
-  "count": 6,
+  "generated_at": "2026-08-09T01:06:46Z",
+  "count": 7,
   "items": [
     {
       "id": "ai-chat",
@@ -75,6 +75,21 @@
       "last_updated": "2026-08-07",
       "file": "features/Fund-Passport.md",
       "title": "Fund Passport"
+    },
+    {
+      "id": "lp-portfolio-dashboard",
+      "type": "feature",
+      "name": "LP Portfolio Dashboard",
+      "tags": [
+        "finance",
+        "dashboard",
+        "portfolio",
+        "read-only",
+        "transparency"
+      ],
+      "last_updated": "2026-08-07",
+      "file": "features/LP-Portfolio-Dashboard.md",
+      "title": "LP Portfolio Dashboard"
     },
     {
       "id": "semantic-search",

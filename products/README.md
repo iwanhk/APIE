@@ -6,7 +6,7 @@ Product teardowns — one Markdown file per product, all following [APIE Product
 
 | Category | Directory | Status |
 | --- | --- | --- |
-| AI | [products/AI](AI/README.md) | 1 complete, watchlist seeded |
+| AI | [products/AI](AI/README.md) | 3 complete, watchlist seeded |
 | FinTech | [products/FinTech](FinTech/README.md) | watchlist seeded |
 | SaaS | [products/SaaS](SaaS/README.md) | watchlist seeded |
 | Consumer | [products/Consumer](Consumer/README.md) | watchlist seeded |
@@ -21,4 +21,3 @@ More categories (Healthcare, Education, Gaming, Enterprise) can be added when th
 4. New teardowns update [PRODUCTS.md](../PRODUCTS.md) and are added to the daily reverse-engineering queue.
 
 Start from [products/_TEMPLATE.md](_TEMPLATE.md).
-

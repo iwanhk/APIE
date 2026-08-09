@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Top100-Watchlist-v0",
-  "generated_at": "2026-08-07",
-  "count": 14,
+  "generated_at": "2026-08-09",
+  "count": 19,
   "notes": "Curated watchlist. Products graduate to a full teardown in products/ when a teardown is published.",
   "items": [
     {"rank": 1, "name": "Cursor", "category": "AI", "reason": "Defined agentic coding; parallel agents + in-house model; fastest-ever SaaS scaling", "status": "teardown-done", "added": "2026-08-07"},
@@ -17,7 +17,11 @@
     {"rank": 11, "name": "TikTok", "category": "Consumer", "reason": "Implicit-signal recommendation engine; the feed is the product", "status": "planned", "added": "2026-08-07"},
     {"rank": 12, "name": "Netflix", "category": "Consumer", "reason": "Catalog-to-attention machine; recommendation at industrial scale", "status": "planned", "added": "2026-08-07"},
     {"rank": 13, "name": "Spotify", "category": "Consumer", "reason": "Taste modeling + Wrapped; personalization made social", "status": "planned", "added": "2026-08-07"},
-    {"rank": 14, "name": "Airbnb", "category": "Consumer", "reason": "Two-sided marketplace trust engineering", "status": "planned", "added": "2026-08-07"}
+    {"rank": 14, "name": "Airbnb", "category": "Consumer", "reason": "Two-sided marketplace trust engineering", "status": "planned", "added": "2026-08-07"},
+    {"rank": 15, "name": "Mercor", "category": "AI", "reason": "AI-proctored vetting + expert-judgment marketplace; $2B gross run rate and $20B valuation talks (2026)", "status": "teardown-done", "added": "2026-08-09"},
+    {"rank": 16, "name": "OpenClaw", "category": "AI", "reason": "Open-source personal AI assistant, 385K+ GitHub stars as of 2026-08-09; local-first agent OS", "status": "planned", "added": "2026-08-09"},
+    {"rank": 17, "name": "MemPalace", "category": "AI", "reason": "Best-benchmarked open-source AI memory system; Memory pattern at the storage layer", "status": "planned", "added": "2026-08-09"},
+    {"rank": 18, "name": "Hyperframes", "category": "AI", "reason": "Write HTML, render video — agent-native video pipeline by HeyGen", "status": "planned", "added": "2026-08-09"},
+    {"rank": 19, "name": "CareerOps", "category": "AI", "reason": "Open-source AI job search scoring listings with a structured A-F rubric — evaluation-as-filtering in hiring", "status": "planned", "added": "2026-08-09"}
   ]
 }
-

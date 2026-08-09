@@ -11,6 +11,8 @@ The pattern library is the core of APIE. Each pattern is a repeatable mechanism 
 | Curation | Established | [patterns/Curation.md](patterns/Curation.md) | Netflix → Investment (small-catalog correction) |
 | Trust / Evidence Layer | Emerging | [patterns/Trust-Evidence-Layer.md](patterns/Trust-Evidence-Layer.md) | Constrained-advice fintech (trust engine) |
 | Suitability Matching | Emerging | [patterns/Suitability-Matching.md](patterns/Suitability-Matching.md) | Constrained-advice fintech (risk-line gate) |
+| AI-Proctored Vetting | Emerging | [patterns/AI-Proctored-Vetting.md](patterns/AI-Proctored-Vetting.md) | Investment advisory (advisor credentialing) |
+| Expert Judgment Marketplace | Emerging | [patterns/Expert-Judgment-Marketplace.md](patterns/Expert-Judgment-Marketplace.md) | Fund due diligence (expert research supply) |
 
 ## Pattern Areas (backlog)
 

@@ -2,6 +2,15 @@
 
 All notable changes to APIE are documented here. Format follows [Keep a Changelog](https://keepachangelog.com/) and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.2.0] — 2026-08-09
+
+### Added
+- Product teardown: Mercor (Day 003, products/AI/Mercor.md) — AI talent marketplace; sourced timeline, Monty AI interviewer architecture, $2B gross run rate and $20B valuation talks (as of Jul 2026)
+- Patterns: AI-Proctored Vetting, Expert Judgment Marketplace (both emerging)
+- Cross-domain transfer: AI-Proctored Vetting → Investment Advisory (hypothesis)
+- Innovation Challenge #002: Cursor × Lovable — 20 pattern-sourced combinations with top-5 scoring
+- Top100 additions: Mercor (teardown-done), OpenClaw, MemPalace, Hyperframes, CareerOps (from 2026-08-09 GitHub trending crawl)
+
 ## [0.1.0] — 2026-08-07
 
 ### Added
@@ -19,4 +28,3 @@ All notable changes to APIE are documented here. Format follows [Keep a Changelo
 - `datasets/Products.json`, `datasets/Patterns.json`, `datasets/Features.json`, `datasets/Flows.json`, `datasets/Skills.json`, `datasets/CrossDomain.json`, `datasets/Top100.json`
 - Daily Product Intelligence Pipeline documentation
 - MIT license, contributing guide, code of conduct, roadmap
-

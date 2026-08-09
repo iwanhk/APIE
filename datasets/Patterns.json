@@ -1,8 +1,25 @@
 {
   "schema": "APIE-Pattern-Schema-v1",
-  "generated_at": "2026-08-07T03:30:53Z",
-  "count": 5,
+  "generated_at": "2026-08-09T01:06:46Z",
+  "count": 7,
   "items": [
+    {
+      "id": "ai-proctored-vetting",
+      "type": "pattern",
+      "name": "AI-Proctored Vetting",
+      "status": "emerging",
+      "tags": [
+        "ai",
+        "hiring",
+        "trust",
+        "verification",
+        "marketplace",
+        "credentialing"
+      ],
+      "last_updated": "2026-08-09",
+      "file": "patterns/AI-Proctored-Vetting.md",
+      "title": "AI-Proctored Vetting"
+    },
     {
       "id": "curation",
       "type": "pattern",
@@ -17,6 +34,23 @@
       "last_updated": "2026-08-07",
       "file": "patterns/Curation.md",
       "title": "Curation"
+    },
+    {
+      "id": "expert-judgment-marketplace",
+      "type": "pattern",
+      "name": "Expert Judgment Marketplace",
+      "status": "emerging",
+      "tags": [
+        "marketplace",
+        "ai-training-data",
+        "rlhf",
+        "evaluation",
+        "expert-network",
+        "human-in-the-loop"
+      ],
+      "last_updated": "2026-08-09",
+      "file": "patterns/Expert-Judgment-Marketplace.md",
+      "title": "Expert Judgment Marketplace"
     },
     {
       "id": "memory",
@@ -76,7 +110,7 @@
         "compliance",
         "ai"
       ],
-      "last_updated": "2026-08-07",
+      "last_updated": "2026-08-09",
       "file": "patterns/Trust-Evidence-Layer.md",
       "title": "Trust / Evidence Layer"
     }

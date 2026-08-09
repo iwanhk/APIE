@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Product-Schema-v1",
-  "generated_at": "2026-08-07T03:30:53Z",
-  "count": 3,
+  "generated_at": "2026-08-09T01:06:46Z",
+  "count": 4,
   "items": [
     {
       "id": "cursor",
@@ -58,6 +58,35 @@
       ],
       "file": "products/AI/Lovable.md",
       "title": "Lovable"
+    },
+    {
+      "id": "mercor",
+      "type": "product",
+      "name": "Mercor",
+      "category": "AI",
+      "company": "Mercor (San Francisco, CA)",
+      "founded": "2023",
+      "status": "active",
+      "tags": [
+        "ai-training-data",
+        "talent-marketplace",
+        "rlhf",
+        "ai-interview",
+        "expert-network",
+        "evaluation"
+      ],
+      "last_updated": "2026-08-09",
+      "sources": [
+        "https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/",
+        "https://techfundingnews.com/mercor-20b-valuation-talks-deeptune-acquisition/",
+        "https://www.36kr.com/p/3904682268034947",
+        "https://aiwiki.ai/wiki/mercor",
+        "https://www.kucoin.com/news/flash/mercor-hits-2b-annualized-run-rate-in-ai-human-feedback-services",
+        "https://www.forbes.com/sites/alexkonrad/2024/09/18/mercor-ai-interviewer-reaches-250-million-valuation/",
+        "https://talent.docs.mercor.com/support/ai-interview"
+      ],
+      "file": "products/AI/Mercor.md",
+      "title": "Mercor"
     },
     {
       "id": "robinhood",

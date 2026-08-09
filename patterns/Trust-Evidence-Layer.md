@@ -4,7 +4,7 @@ type: pattern
 name: Trust / Evidence Layer
 status: emerging
 tags: [trust, verification, citations, compliance, ai]
-last_updated: 2026-08-07
+last_updated: 2026-08-09
 ---
 
 # Trust / Evidence Layer
@@ -39,6 +39,8 @@ Financial products are a liar's market: novices cannot distinguish audited truth
 - **Perplexity** — citations-first answers; every sentence can be checked at the source.
 - **Fund industry infrastructure** — audited NAV by independent administrators, prospectuses, and filings as canonical sources.
 - **Proof-of-reserves exchanges** — on-chain verification of customer balances; a direct answer to "do you actually have my money?"
+- **Mercor (positive)** — verified expert profiles produced by the Monty AI interviewer, plus the APEX benchmark scoring AI agents against expert-human baselines: the platform's "check us" evidence is the credential itself, reusable across every project.
+- **Mercor (cautionary)** — the Mar 2026 LiteLLM supply-chain breach exposed up to 4TB of internal data and contractor records and lost Meta as a client: a trust layer is only as strong as the dependency chain beneath it.
 - **Robinhood (cautionary)** — years of opaque order-flow monetization and "gamified" UX created a trust debt that a decade of disclosures has not fully repaid. The absence of a trust layer is itself evidence.
 
 ## Engineering

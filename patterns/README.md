@@ -11,6 +11,8 @@ The core of APIE. A pattern is a **repeatable mechanism** — a solution structu
 | Curation | established | [Curation.md](Curation.md) | FOF gatekeeping, Apple App Store, Netflix editorial |
 | Trust / Evidence Layer | emerging | [Trust-Evidence-Layer.md](Trust-Evidence-Layer.md) | Perplexity, audited NAV, proof-of-reserves |
 | Suitability Matching | emerging | [Suitability-Matching.md](Suitability-Matching.md) | Robo-advisors, MiFID II, private banking IPS |
+| AI-Proctored Vetting | emerging | [AI-Proctored-Vetting.md](AI-Proctored-Vetting.md) | Mercor (Monty), Duolingo English Test, HireVue |
+| Expert Judgment Marketplace | emerging | [Expert-Judgment-Marketplace.md](Expert-Judgment-Marketplace.md) | Mercor, Scale AI / Outlier, Surge AI |
 
 ## Pattern Areas (backlog)
 

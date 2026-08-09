@@ -8,9 +8,10 @@ AI-native products and developer tools.
 | --- | --- | --- |
 | Cursor | Anysphere | [Cursor.md](Cursor.md) |
 | Lovable | Lovable | [Lovable.md](Lovable.md) |
+| Mercor | Mercor | [Mercor.md](Mercor.md) |
 
 ## Watchlist
 
-ChatGPT (OpenAI) · Claude (Anthropic) · Perplexity · Replit · Gamma · Granola · Mercor · Windsurf · Harvey · Midjourney · Suno
+ChatGPT (OpenAI) · Claude (Anthropic) · Perplexity · Replit · Gamma · Granola · Windsurf · Harvey · Midjourney · Suno
 
-Daily reverse-engineering queue: **Day 003 — Mercor**, Day 004 — Perplexity, Day 005 — Replit, Day 006 — Claude.
+Daily reverse-engineering queue: **Day 004 — Perplexity**, Day 005 — Replit, Day 006 — Claude.

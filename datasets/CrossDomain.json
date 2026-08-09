@@ -1,8 +1,20 @@
 {
   "schema": "APIE-Cross-Domain-Schema-v1",
-  "generated_at": "2026-08-07T03:30:53Z",
-  "count": 1,
+  "generated_at": "2026-08-09T01:06:46Z",
+  "count": 2,
   "items": [
+    {
+      "id": "ai-proctored-vetting-to-investment-advisory",
+      "type": "cross-domain",
+      "name": "AI-Proctored Vetting → Investment Advisory",
+      "source_domain": "AI Talent Marketplace / Certification",
+      "target_domain": "FinTech / Investment Advisory",
+      "source_pattern": "patterns/AI-Proctored-Vetting.md",
+      "status": "hypothesis",
+      "last_updated": "2026-08-09",
+      "file": "cross-domain/AI-Proctored-Vetting-to-Investment-Advisory.md",
+      "title": "AI-Proctored Vetting → Investment Advisory"
+    },
     {
       "id": "netflix-recommendation-to-investment",
       "type": "cross-domain",
