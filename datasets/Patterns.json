@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Pattern-Schema-v1",
-  "generated_at": "2026-08-09T01:06:46Z",
-  "count": 7,
+  "generated_at": "2026-08-12T01:58:14Z",
+  "count": 9,
   "items": [
     {
       "id": "ai-proctored-vetting",
@@ -19,6 +19,22 @@
       "last_updated": "2026-08-09",
       "file": "patterns/AI-Proctored-Vetting.md",
       "title": "AI-Proctored Vetting"
+    },
+    {
+      "id": "citation-grounded-generation",
+      "type": "pattern",
+      "name": "Citation-Grounded Generation",
+      "status": "emerging",
+      "tags": [
+        "trust",
+        "search",
+        "ai",
+        "citations",
+        "verification"
+      ],
+      "last_updated": "2026-08-12",
+      "file": "patterns/Citation-Grounded-Generation.md",
+      "title": "Citation-Grounded Generation"
     },
     {
       "id": "curation",
@@ -81,6 +97,22 @@
       "last_updated": "2026-08-07",
       "file": "patterns/Recommendation.md",
       "title": "Recommendation Engine"
+    },
+    {
+      "id": "spec-driven-development",
+      "type": "pattern",
+      "name": "Spec-Driven Development",
+      "status": "emerging",
+      "tags": [
+        "ai-coding",
+        "workflow",
+        "specs",
+        "verification",
+        "developer-tools"
+      ],
+      "last_updated": "2026-08-12",
+      "file": "patterns/Spec-Driven-Development.md",
+      "title": "Spec-Driven Development"
     },
     {
       "id": "suitability-matching",

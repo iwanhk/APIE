@@ -2,6 +2,15 @@
 
 All notable changes to APIE are documented here. Format follows [Keep a Changelog](https://keepachangelog.com/) and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.3.0] — 2026-08-12
+
+### Added
+- Product teardown: Perplexity (Day 004, products/AI/Perplexity.md) — citation-grounded answer engine; sourced timeline through Jul 2026 ($450M+ ARR Mar 2026, ~$22.6B valuation, ads killed Feb 2026, Computer/Comet/Personal Computer)
+- Patterns: Citation-Grounded Generation, Spec-Driven Development (both emerging)
+- Cross-domain transfer: Citation-Grounded Generation → Investment Research (hypothesis)
+- Innovation Challenge #003: Perplexity × Mercor — 20 pattern-sourced combinations with top-5 scoring; winner Interview-as-Research
+- Top100 additions: Omniwork, Pickle, SpecKit, Prodigy Research, Needle2, Sidekick (from 2026-08-12 HN/PH/YC/GitHub signals); Lovable marked teardown-done
+
 ## [0.2.0] — 2026-08-09
 
 ### Added

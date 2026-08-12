@@ -13,6 +13,8 @@ The pattern library is the core of APIE. Each pattern is a repeatable mechanism 
 | Suitability Matching | Emerging | [patterns/Suitability-Matching.md](patterns/Suitability-Matching.md) | Constrained-advice fintech (risk-line gate) |
 | AI-Proctored Vetting | Emerging | [patterns/AI-Proctored-Vetting.md](patterns/AI-Proctored-Vetting.md) | Investment advisory (advisor credentialing) |
 | Expert Judgment Marketplace | Emerging | [patterns/Expert-Judgment-Marketplace.md](patterns/Expert-Judgment-Marketplace.md) | Fund due diligence (expert research supply) |
+| Citation-Grounded Generation | Emerging | [patterns/Citation-Grounded-Generation.md](patterns/Citation-Grounded-Generation.md) | Investment research (sourced memos) |
+| Spec-Driven Development | Emerging | [patterns/Spec-Driven-Development.md](patterns/Spec-Driven-Development.md) | Compliance & research specs (candidate) |
 
 ## Pattern Areas (backlog)
 

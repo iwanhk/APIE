@@ -9,11 +9,12 @@ Every product teardown follows [APIE Product Schema v1](docs/APIE-Product-Schema
 | Cursor | Anysphere | AI / Developer Tools | [products/AI/Cursor.md](products/AI/Cursor.md) | 2026-08-07 |
 | Lovable | Lovable | AI / App Generation | [products/AI/Lovable.md](products/AI/Lovable.md) | 2026-08-07 |
 | Mercor | Mercor | AI / Talent Marketplace | [products/AI/Mercor.md](products/AI/Mercor.md) | 2026-08-09 |
+| Perplexity | Perplexity AI | AI / Answer Engine | [products/AI/Perplexity.md](products/AI/Perplexity.md) | 2026-08-12 |
 | Robinhood | Robinhood Markets | FinTech / Retail Brokerage | [products/FinTech/Robinhood.md](products/FinTech/Robinhood.md) | 2026-08-07 |
 
 ## Watchlist (to be torn down)
 
-**AI:** ChatGPT, Claude, Perplexity, Replit, Gamma, Granola, Windsurf, Harvey
+**AI:** ChatGPT, Claude, Replit, Gamma, Granola, Windsurf, Harvey
 
 **FinTech:** Coinbase, Carta, Stripe, Plaid, Mercury, Wise
 

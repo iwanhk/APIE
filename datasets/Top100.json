@@ -1,14 +1,14 @@
 {
   "schema": "APIE-Top100-Watchlist-v0",
-  "generated_at": "2026-08-09",
-  "count": 19,
+  "generated_at": "2026-08-12",
+  "count": 25,
   "notes": "Curated watchlist. Products graduate to a full teardown in products/ when a teardown is published.",
   "items": [
     {"rank": 1, "name": "Cursor", "category": "AI", "reason": "Defined agentic coding; parallel agents + in-house model; fastest-ever SaaS scaling", "status": "teardown-done", "added": "2026-08-07"},
     {"rank": 2, "name": "ChatGPT", "category": "AI", "reason": "Brought LLMs to the mass market; memory + artifacts turned chat into a workspace", "status": "planned", "added": "2026-08-07"},
     {"rank": 3, "name": "Claude", "category": "AI", "reason": "Long-context + agentic coding leadership; enterprise trust positioning", "status": "planned", "added": "2026-08-07"},
     {"rank": 4, "name": "Perplexity", "category": "AI", "reason": "Citations-first answer engine; search category redefinition", "status": "planned", "added": "2026-08-07"},
-    {"rank": 5, "name": "Lovable", "category": "AI", "reason": "Vibe-coding to production app; no-code AI build loop", "status": "planned", "added": "2026-08-07"},
+    {"rank": 5, "name": "Lovable", "category": "AI", "reason": "Vibe-coding to production app; no-code AI build loop", "status": "teardown-done", "added": "2026-08-07"},
     {"rank": 6, "name": "Replit", "category": "AI", "reason": "Browser-based dev environment + agent; autonomous build loop", "status": "planned", "added": "2026-08-07"},
     {"rank": 7, "name": "Robinhood", "category": "FinTech", "reason": "Gamified, zero-friction consumer investing; behavioral product design", "status": "planned", "added": "2026-08-07"},
     {"rank": 8, "name": "Stripe", "category": "FinTech", "reason": "Developer-first payments; modular financial infrastructure", "status": "planned", "added": "2026-08-07"},
@@ -22,6 +22,12 @@
     {"rank": 16, "name": "OpenClaw", "category": "AI", "reason": "Open-source personal AI assistant, 385K+ GitHub stars as of 2026-08-09; local-first agent OS", "status": "planned", "added": "2026-08-09"},
     {"rank": 17, "name": "MemPalace", "category": "AI", "reason": "Best-benchmarked open-source AI memory system; Memory pattern at the storage layer", "status": "planned", "added": "2026-08-09"},
     {"rank": 18, "name": "Hyperframes", "category": "AI", "reason": "Write HTML, render video — agent-native video pipeline by HeyGen", "status": "planned", "added": "2026-08-09"},
-    {"rank": 19, "name": "CareerOps", "category": "AI", "reason": "Open-source AI job search scoring listings with a structured A-F rubric — evaluation-as-filtering in hiring", "status": "planned", "added": "2026-08-09"}
+    {"rank": 19, "name": "CareerOps", "category": "AI", "reason": "Open-source AI job search scoring listings with a structured A-F rubric — evaluation-as-filtering in hiring", "status": "planned", "added": "2026-08-09"},
+    {"rank": 20, "name": "Omniwork", "category": "AI", "reason": "Creative Agent OS; #1 Product of the Day on Product Hunt (Aug 9, 2026); always-on desktop agent producing finished work", "status": "planned", "added": "2026-08-12"},
+    {"rank": 21, "name": "Pickle", "category": "AI", "reason": "LLM-native agent browser with policy-gated actions; cuts token costs by rendering pages for models, not humans (Show HN, Aug 11 2026)", "status": "planned", "added": "2026-08-12"},
+    {"rank": 22, "name": "SpecKit", "category": "AI", "reason": "GitHub's spec-driven development toolkit; spec-first agentic coding (126K+ stars as of 2026-08-12)", "status": "planned", "added": "2026-08-12"},
+    {"rank": 23, "name": "Prodigy Research", "category": "FinTech", "reason": "YC S26 AI quant fund claiming 108% return in two months — verify claims before trusting", "status": "planned", "added": "2026-08-12"},
+    {"rank": 24, "name": "Needle2", "category": "AI", "reason": "14MB / 45M-param agentic edge LLM for phones, wearables and IoT (Cactus Compute, Aug 2026)", "status": "planned", "added": "2026-08-12"},
+    {"rank": 25, "name": "Sidekick", "category": "Enterprise", "reason": "YC S26 SMS-only AI agent for factory floors; lowest-friction industrial AI channel", "status": "planned", "added": "2026-08-12"}
   ]
 }

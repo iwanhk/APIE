@@ -6,7 +6,7 @@ Product teardowns — one Markdown file per product, all following [APIE Product
 
 | Category | Directory | Status |
 | --- | --- | --- |
-| AI | [products/AI](AI/README.md) | 3 complete, watchlist seeded |
+| AI | [products/AI](AI/README.md) | 4 complete, watchlist seeded |
 | FinTech | [products/FinTech](FinTech/README.md) | watchlist seeded |
 | SaaS | [products/SaaS](SaaS/README.md) | watchlist seeded |
 | Consumer | [products/Consumer](Consumer/README.md) | watchlist seeded |

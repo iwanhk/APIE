@@ -11,7 +11,7 @@
 
 ### 2. 每日拆解（Day N）
 
-队列（当前）：**Day 003 — Mercor**，Day 004 — Perplexity，Day 005 — Replit，Day 006 — Claude
+队列（当前）：**Day 005 — Replit**，Day 006 — Claude
 
 流程：`products/_TEMPLATE.md` → 按 [Product Schema](APIE-Product-Schema-v1.md) 填 → 事实带来源和 as-of 日期 → 至少链接一个 pattern → 更新 `PRODUCTS.md` 与分类 README。
 
@@ -62,4 +62,3 @@ git push
 5) 重建数据集、校验、更新索引、git commit
 红线：任何真实商业安排/未公开产品计划不得进公开库（放 _private/）。
 ```
-

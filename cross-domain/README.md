@@ -8,6 +8,7 @@ The part of APIE no one else builds: mechanisms proven in one industry, transpla
 | --- | --- | --- |
 | Netflix Recommendation → Investment | hypothesis | [Netflix-Recommendation-to-Investment.md](Netflix-Recommendation-to-Investment.md) |
 | AI-Proctored Vetting → Investment Advisory | hypothesis | [AI-Proctored-Vetting-to-Investment-Advisory.md](AI-Proctored-Vetting-to-Investment-Advisory.md) |
+| Citation-Grounded Generation → Investment Research | hypothesis | [Citation-Grounded-Generation-to-Investment-Research.md](Citation-Grounded-Generation-to-Investment-Research.md) |
 
 ## Queued Transfers
 

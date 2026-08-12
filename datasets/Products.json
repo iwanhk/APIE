@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Product-Schema-v1",
-  "generated_at": "2026-08-09T01:06:46Z",
-  "count": 4,
+  "generated_at": "2026-08-12T01:58:14Z",
+  "count": 5,
   "items": [
     {
       "id": "cursor",
@@ -87,6 +87,47 @@
       ],
       "file": "products/AI/Mercor.md",
       "title": "Mercor"
+    },
+    {
+      "id": "perplexity",
+      "type": "product",
+      "name": "Perplexity",
+      "category": "AI",
+      "company": "Perplexity AI (San Francisco, CA)",
+      "founded": "2022",
+      "status": "active",
+      "tags": [
+        "ai-search",
+        "answer-engine",
+        "citations",
+        "agent",
+        "browser",
+        "subscription"
+      ],
+      "last_updated": "2026-08-12",
+      "sources": [
+        "https://finance.yahoo.com/sectors/technology/articles/perplexity-arr-tops-450m-pricing-132500539.html",
+        "https://axis-intelligence.com/perplexity-statistics/",
+        "http://www.dzh.com.cn/index/detail?mod=zb&url=/wap/data/news/zb/2026/07/529901.json",
+        "https://www.upmarket.co/private-markets/pre-ipo/perplexity/",
+        "https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/",
+        "https://interestingengineering.com/innovation/sonar-worlds-most-affordable-search-api",
+        "https://9to5mac.com/2025/07/09/perplexity-launches-comet-its-ai-based-browser/",
+        "https://www.techrepublic.com/article/news-perplexity-ai-browser-comet/",
+        "https://venturebeat.com/ai/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at",
+        "https://thenextweb.com/news/perplexity-personal-computer-enterprise",
+        "https://www.perplexity.ai/hub/blog/everything-is-computer",
+        "https://www.emarketer.com/content/perplexity-retreat-ads-marks-split-on-ai-monetization-models",
+        "https://www.business-standard.com/technology/tech-news/microsoft-signs-750-million-azure-cloud-deal-with-ai-firm-perplexity-126013000274_1.html",
+        "https://www.theregister.com/software/2025/08/26/asahi-nikkei-sue-perplexity-ai-for-copyright-infringement/",
+        "https://china.kyodonews.net/articles/-/4495",
+        "https://techjacksolutions.com/ai-tools/perplexity/perplexity-enterprise/",
+        "https://shiporskip.io/news/perplexity-ai-enterprise-soc2-private-index",
+        "https://www.secondtalent.com/resources/perplexity-ai-features/",
+        "https://thursdai.news/companies/perplexity"
+      ],
+      "file": "products/AI/Perplexity.md",
+      "title": "Perplexity"
     },
     {
       "id": "robinhood",

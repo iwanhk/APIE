@@ -13,6 +13,8 @@ The core of APIE. A pattern is a **repeatable mechanism** — a solution structu
 | Suitability Matching | emerging | [Suitability-Matching.md](Suitability-Matching.md) | Robo-advisors, MiFID II, private banking IPS |
 | AI-Proctored Vetting | emerging | [AI-Proctored-Vetting.md](AI-Proctored-Vetting.md) | Mercor (Monty), Duolingo English Test, HireVue |
 | Expert Judgment Marketplace | emerging | [Expert-Judgment-Marketplace.md](Expert-Judgment-Marketplace.md) | Mercor, Scale AI / Outlier, Surge AI |
+| Citation-Grounded Generation | emerging | [Citation-Grounded-Generation.md](Citation-Grounded-Generation.md) | Perplexity, Google AI Overviews, ChatGPT Search |
+| Spec-Driven Development | emerging | [Spec-Driven-Development.md](Spec-Driven-Development.md) | GitHub SpecKit, Fission-AI OpenSpec |
 
 ## Pattern Areas (backlog)
 

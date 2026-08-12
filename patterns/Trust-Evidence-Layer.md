@@ -36,7 +36,7 @@ Financial products are a liar's market: novices cannot distinguish audited truth
 
 ## Examples
 
-- **Perplexity** — citations-first answers; every sentence can be checked at the source.
+- **Perplexity** — citations-first answers; every sentence can be checked at the source. This is the claim-level specialization of the pattern — see [Citation-Grounded Generation](Citation-Grounded-Generation.md) for the mechanism.
 - **Fund industry infrastructure** — audited NAV by independent administrators, prospectuses, and filings as canonical sources.
 - **Proof-of-reserves exchanges** — on-chain verification of customer balances; a direct answer to "do you actually have my money?"
 - **Mercor (positive)** — verified expert profiles produced by the Monty AI interviewer, plus the APEX benchmark scoring AI agents against expert-human baselines: the platform's "check us" evidence is the credential itself, reusable across every project.
