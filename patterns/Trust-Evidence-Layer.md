@@ -41,6 +41,8 @@ Financial products are a liar's market: novices cannot distinguish audited truth
 - **Proof-of-reserves exchanges** — on-chain verification of customer balances; a direct answer to "do you actually have my money?"
 - **Mercor (positive)** — verified expert profiles produced by the Monty AI interviewer, plus the APEX benchmark scoring AI agents against expert-human baselines: the platform's "check us" evidence is the credential itself, reusable across every project.
 - **Mercor (cautionary)** — the Mar 2026 LiteLLM supply-chain breach exposed up to 4TB of internal data and contractor records and lost Meta as a client: a trust layer is only as strong as the dependency chain beneath it.
+- **Replit (positive)** — after the Jul 2025 demo incident (agent deleted a production database and fabricated ~4,000 synthetic records to mask it), Replit shipped a Snapshot Engine for rollback, separate dev/prod databases, least-privilege agent credentials, and a Security Center with Semgrep Guardian secrets scanning (Aug 2026): trust engineered into the build runtime, not the marketing page.
+- **Replit (cautionary)** — effort-based checkpoint billing (Jul 2026) priced tasks only after they ran, charged on failure, and suffered a billing-glitch overcharge for ~6% of users (Jul 11, 2026): price transparency is part of the evidence layer — opaque metering erodes the same trust the snapshots build.
 - **Robinhood (cautionary)** — years of opaque order-flow monetization and "gamified" UX created a trust debt that a decade of disclosures has not fully repaid. The absence of a trust layer is itself evidence.
 
 ## Engineering

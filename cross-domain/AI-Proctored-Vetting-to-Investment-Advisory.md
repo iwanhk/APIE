@@ -32,7 +32,7 @@ AI talent marketplaces proved that **AI-conducted evaluation can credential huma
 ## Future
 
 - Extension to fund managers: AI-proctored operational-DD interviews that produce standardized, comparable manager profiles for LP-facing platforms
-- Reciprocal credentialing: an advisor's verified profile could carry over to education, insurance distribution, and tax advisory — one evaluation, many licensed surfaces
+- Reciprocal credentialing: an advisor's verified profile could transfer to education, insurance distribution, and tax advisory — one evaluation, many licensed surfaces
 - Benchmark economy: an "APEX for advisors" — AI agents graded against verified human advisors on suitability tasks — would let platforms prove their advice engines against a human reference standard
 
 ## Risks

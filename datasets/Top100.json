@@ -1,16 +1,16 @@
 {
   "schema": "APIE-Top100-Watchlist-v0",
-  "generated_at": "2026-08-12",
-  "count": 25,
+  "generated_at": "2026-08-13",
+  "count": 28,
   "notes": "Curated watchlist. Products graduate to a full teardown in products/ when a teardown is published.",
   "items": [
     {"rank": 1, "name": "Cursor", "category": "AI", "reason": "Defined agentic coding; parallel agents + in-house model; fastest-ever SaaS scaling", "status": "teardown-done", "added": "2026-08-07"},
     {"rank": 2, "name": "ChatGPT", "category": "AI", "reason": "Brought LLMs to the mass market; memory + artifacts turned chat into a workspace", "status": "planned", "added": "2026-08-07"},
     {"rank": 3, "name": "Claude", "category": "AI", "reason": "Long-context + agentic coding leadership; enterprise trust positioning", "status": "planned", "added": "2026-08-07"},
-    {"rank": 4, "name": "Perplexity", "category": "AI", "reason": "Citations-first answer engine; search category redefinition", "status": "planned", "added": "2026-08-07"},
+    {"rank": 4, "name": "Perplexity", "category": "AI", "reason": "Citations-first answer engine; search category redefinition", "status": "teardown-done", "added": "2026-08-07"},
     {"rank": 5, "name": "Lovable", "category": "AI", "reason": "Vibe-coding to production app; no-code AI build loop", "status": "teardown-done", "added": "2026-08-07"},
-    {"rank": 6, "name": "Replit", "category": "AI", "reason": "Browser-based dev environment + agent; autonomous build loop", "status": "planned", "added": "2026-08-07"},
-    {"rank": 7, "name": "Robinhood", "category": "FinTech", "reason": "Gamified, zero-friction consumer investing; behavioral product design", "status": "planned", "added": "2026-08-07"},
+    {"rank": 6, "name": "Replit", "category": "AI", "reason": "Browser-based dev environment + agent; autonomous build loop", "status": "teardown-done", "added": "2026-08-07"},
+    {"rank": 7, "name": "Robinhood", "category": "FinTech", "reason": "Gamified, zero-friction consumer investing; behavioral product design", "status": "teardown-done", "added": "2026-08-07"},
     {"rank": 8, "name": "Stripe", "category": "FinTech", "reason": "Developer-first payments; modular financial infrastructure", "status": "planned", "added": "2026-08-07"},
     {"rank": 9, "name": "Notion", "category": "SaaS", "reason": "Blocks as universal substrate; template network effects", "status": "planned", "added": "2026-08-07"},
     {"rank": 10, "name": "Linear", "category": "SaaS", "reason": "Speed as product philosophy; keyboard-first power UX", "status": "planned", "added": "2026-08-07"},
@@ -28,6 +28,9 @@
     {"rank": 22, "name": "SpecKit", "category": "AI", "reason": "GitHub's spec-driven development toolkit; spec-first agentic coding (126K+ stars as of 2026-08-12)", "status": "planned", "added": "2026-08-12"},
     {"rank": 23, "name": "Prodigy Research", "category": "FinTech", "reason": "YC S26 AI quant fund claiming 108% return in two months — verify claims before trusting", "status": "planned", "added": "2026-08-12"},
     {"rank": 24, "name": "Needle2", "category": "AI", "reason": "14MB / 45M-param agentic edge LLM for phones, wearables and IoT (Cactus Compute, Aug 2026)", "status": "planned", "added": "2026-08-12"},
-    {"rank": 25, "name": "Sidekick", "category": "Enterprise", "reason": "YC S26 SMS-only AI agent for factory floors; lowest-friction industrial AI channel", "status": "planned", "added": "2026-08-12"}
+    {"rank": 25, "name": "Sidekick", "category": "Enterprise", "reason": "YC S26 SMS-only AI agent for factory floors; lowest-friction industrial AI channel", "status": "planned", "added": "2026-08-12"},
+    {"rank": 26, "name": "Discovered Materials", "category": "Enterprise", "reason": "YC P26 AI agents discovering semiconductor materials + model benchmark; compresses lab-to-fab R&D (Launch HN, Aug 12 2026)", "status": "planned", "added": "2026-08-13"},
+    {"rank": 27, "name": "Worldmonitor", "category": "Enterprise", "reason": "Real-time global intelligence dashboard: AI news aggregation + Country Instability Index + cross-stream correlation; 81K+ stars (GitHub crawl, Aug 13 2026)", "status": "planned", "added": "2026-08-13"},
+    {"rank": 28, "name": "Headroom", "category": "AI", "reason": "Compresses tool outputs/logs/RAG chunks before they reach the LLM (~20% fewer tokens); context compression as cost engineering (66K+ stars, Aug 13 2026)", "status": "planned", "added": "2026-08-13"}
   ]
 }

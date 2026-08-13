@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Pattern-Schema-v1",
-  "generated_at": "2026-08-12T01:58:14Z",
-  "count": 9,
+  "generated_at": "2026-08-13T01:08:18Z",
+  "count": 11,
   "items": [
     {
       "id": "ai-proctored-vetting",
@@ -52,6 +52,22 @@
       "title": "Curation"
     },
     {
+      "id": "effort-based-pricing",
+      "type": "pattern",
+      "name": "Effort-Based Pricing",
+      "status": "emerging",
+      "tags": [
+        "pricing",
+        "consumption",
+        "agents",
+        "monetization",
+        "unit-economics"
+      ],
+      "last_updated": "2026-08-13",
+      "file": "patterns/Effort-Based-Pricing.md",
+      "title": "Effort-Based Pricing"
+    },
+    {
       "id": "expert-judgment-marketplace",
       "type": "pattern",
       "name": "Expert Judgment Marketplace",
@@ -82,6 +98,22 @@
       "last_updated": "2026-08-07",
       "file": "patterns/Memory.md",
       "title": "Memory"
+    },
+    {
+      "id": "parallel-agent-orchestration",
+      "type": "pattern",
+      "name": "Parallel Agent Orchestration",
+      "status": "emerging",
+      "tags": [
+        "agents",
+        "orchestration",
+        "parallelism",
+        "merge",
+        "ai-coding"
+      ],
+      "last_updated": "2026-08-13",
+      "file": "patterns/Parallel-Agent-Orchestration.md",
+      "title": "Parallel Agent Orchestration"
     },
     {
       "id": "recommendation",

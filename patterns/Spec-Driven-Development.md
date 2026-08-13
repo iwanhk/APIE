@@ -38,6 +38,7 @@ Prompt-driven coding produces code whose intent lives only in a conversation: un
 
 - **GitHub SpecKit** — GitHub's toolkit for spec-driven development with AI coding assistants; provides a structured workflow for writing, versioning, and executing specs (126K+ stars as of the 2026-08-12 GitHub trending crawl). Mechanism: spec files as the shared contract between human and agent.
 - **Fission-AI/OpenSpec** — open-source "spec-driven development (SDD) for AI coding assistants": specs plus automated verification gates for agent-generated changes (64K+ stars as of 2026-08-12). Mechanism: acceptance-criteria-driven implementation loop.
+- **Replit Agent (v2 → Agent 4)** — since Feb 2025, the agent writes an editable markdown plan in the project root that users can read, edit, and re-prompt; Agent 4 makes this explicit as a Plan mode where the agent asks clarifying questions and must wait for human approval before destructive changes. Mechanism: the plan/spec artifact is the contract the agent implements against — spec-as-by-product for vibe builders (2026-08-13).
 - **Spec-first agent workflows in practice** — the broader 2026 trend of agent harnesses (Cursor, Claude Code, Codex ecosystems) adopting spec/plan artifacts before implementation, with review of intent rather than diff. Mechanism: planning artifact → implementation → verification.
 
 ## Engineering

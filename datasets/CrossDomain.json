@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Cross-Domain-Schema-v1",
-  "generated_at": "2026-08-12T01:58:14Z",
-  "count": 3,
+  "generated_at": "2026-08-13T01:08:18Z",
+  "count": 5,
   "items": [
     {
       "id": "ai-proctored-vetting-to-investment-advisory",
@@ -28,6 +28,18 @@
       "title": "Citation-Grounded Generation → Investment Research"
     },
     {
+      "id": "effort-based-pricing-to-professional-services",
+      "type": "cross-domain",
+      "name": "Effort-Based Pricing → Professional Services",
+      "source_domain": "AI Software (Agentic Coding)",
+      "target_domain": "Professional Services (Consulting & Legal)",
+      "source_pattern": "patterns/Effort-Based-Pricing.md",
+      "status": "hypothesis",
+      "last_updated": "2026-08-13",
+      "file": "cross-domain/Effort-Based-Pricing-to-Professional-Services.md",
+      "title": "Effort-Based Pricing → Professional Services"
+    },
+    {
       "id": "netflix-recommendation-to-investment",
       "type": "cross-domain",
       "name": "Netflix Recommendation → Investment",
@@ -38,6 +50,18 @@
       "last_updated": "2026-08-07",
       "file": "cross-domain/Netflix-Recommendation-to-Investment.md",
       "title": "Netflix Recommendation → Investment"
+    },
+    {
+      "id": "parallel-agent-orchestration-to-investment-research",
+      "type": "cross-domain",
+      "name": "Parallel Agent Orchestration → Investment Research",
+      "source_domain": "AI Software (Agentic Coding)",
+      "target_domain": "Investment Research & Due Diligence",
+      "source_pattern": "patterns/Parallel-Agent-Orchestration.md",
+      "status": "hypothesis",
+      "last_updated": "2026-08-13",
+      "file": "cross-domain/Parallel-Agent-Orchestration-to-Investment-Research.md",
+      "title": "Parallel Agent Orchestration → Investment Research"
     }
   ]
 }

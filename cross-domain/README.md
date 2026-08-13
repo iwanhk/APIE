@@ -9,6 +9,8 @@ The part of APIE no one else builds: mechanisms proven in one industry, transpla
 | Netflix Recommendation → Investment | hypothesis | [Netflix-Recommendation-to-Investment.md](Netflix-Recommendation-to-Investment.md) |
 | AI-Proctored Vetting → Investment Advisory | hypothesis | [AI-Proctored-Vetting-to-Investment-Advisory.md](AI-Proctored-Vetting-to-Investment-Advisory.md) |
 | Citation-Grounded Generation → Investment Research | hypothesis | [Citation-Grounded-Generation-to-Investment-Research.md](Citation-Grounded-Generation-to-Investment-Research.md) |
+| Effort-Based Pricing → Professional Services | hypothesis | [Effort-Based-Pricing-to-Professional-Services.md](Effort-Based-Pricing-to-Professional-Services.md) |
+| Parallel Agent Orchestration → Investment Research | hypothesis | [Parallel-Agent-Orchestration-to-Investment-Research.md](Parallel-Agent-Orchestration-to-Investment-Research.md) |
 
 ## Queued Transfers
 

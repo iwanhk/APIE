@@ -58,7 +58,7 @@ Cursor is an AI-native code editor built by Anysphere on top of the VS Code ecos
 
 ## UX
 
-- **Zero-migration entry:** forked VS Code — existing extensions, keybindings, and muscle memory carry over. The fastest possible onboarding for its target user.
+- **Zero-migration entry:** forked VS Code — existing extensions, keybindings, and muscle memory transfer intact. The fastest possible onboarding for its target user.
 - **Escalating AI surface:** Tab (autocomplete) → Cmd+K (inline edit) → Cmd+L (chat) → Composer (multi-file agent) → parallel agents (2.0). Each layer is a natural upgrade of the previous one.
 - **Parallel-agents UI (2.0):** multiple agents run in git worktrees or remote machines without interfering; the UI makes "many agents at once" feel like a project-management surface, not a hack.
 - **Control & safety:** command execution in a sandbox, code-change tracking, model picker, and visible usage limits.

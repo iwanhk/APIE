@@ -15,7 +15,7 @@ Overview, History, Target User, Business, Growth, UX, AI, Architecture, Patterns
 Lessons, Innovation, Sources.
 
 RULES:
-1. Every number and date must come from a source and carry an "as of" date. If you
+1. Every number and date must come from a source and include an "as of" date. If you
    cannot verify, write "Unknown" — never guess.
 2. State the product's success mechanism in one sentence in Overview.
 3. In Patterns, link only patterns that exist in the repo. For genuinely new
@@ -29,4 +29,3 @@ RULES:
 
 Before you answer, list the facts you will use with their sources. Then write the file.
 ```
-

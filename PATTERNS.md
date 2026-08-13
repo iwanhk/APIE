@@ -15,6 +15,8 @@ The pattern library is the core of APIE. Each pattern is a repeatable mechanism 
 | Expert Judgment Marketplace | Emerging | [patterns/Expert-Judgment-Marketplace.md](patterns/Expert-Judgment-Marketplace.md) | Fund due diligence (expert research supply) |
 | Citation-Grounded Generation | Emerging | [patterns/Citation-Grounded-Generation.md](patterns/Citation-Grounded-Generation.md) | Investment research (sourced memos) |
 | Spec-Driven Development | Emerging | [patterns/Spec-Driven-Development.md](patterns/Spec-Driven-Development.md) | Compliance & research specs (candidate) |
+| Effort-Based Pricing | Emerging | [patterns/Effort-Based-Pricing.md](patterns/Effort-Based-Pricing.md) | Professional services (metered AI work) |
+| Parallel Agent Orchestration | Emerging | [patterns/Parallel-Agent-Orchestration.md](patterns/Parallel-Agent-Orchestration.md) | Investment research (parallel analyst teams) |
 
 ## Pattern Areas (backlog)
 

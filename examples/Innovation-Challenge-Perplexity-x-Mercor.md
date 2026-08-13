@@ -14,7 +14,7 @@ Patterns abstracted:
 1. **Interview-as-Research** — when a Perplexity answer needs deep or niche context, it dispatches a Mercor-vetted domain expert for a live AI-proctored interview and cites the verified transcript in the answer — search that calls people. [Expert-judgment-marketplace × Citation-grounded-generation]
 2. **Agent Audit Bench** — Perplexity Computer agents are graded by Mercor's expert pool on real web tasks; every agent action gets an evidence trail and an expert score, published as a public leaderboard. [Benchmark-as-positioning × Agent-orchestration]
 3. **Model Router with Expert Taste** — instead of cost-only routing, queries route by APEX-style expert quality scores per task family; the router learns which model humans trust per domain. [Benchmark-as-positioning × Model-routing]
-4. **Credentialed Answer Feeds** — enterprise Perplexity instances ground answers only in company docs plus Mercor-verified experts, with each answer carrying an expert credential badge. [Citation-grounding × Portable-credential]
+4. **Credentialed Answer Feeds** — enterprise Perplexity instances ground answers only in company docs plus Mercor-verified experts, with each answer displaying an expert credential badge. [Citation-grounding × Portable-credential]
 5. **Skill Verification Browser** — Comet browsing sessions become evidence: an expert's real research work (queries, sources vetted, synthesis) auto-builds a portable verified portfolio. [AI-proctored-vetting × Browser-as-distribution]
 
 ### Enterprise & Ops

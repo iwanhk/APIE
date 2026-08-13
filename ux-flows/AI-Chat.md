@@ -24,7 +24,7 @@ The user asks a question or gives a task in natural language and reaches a usabl
 2. **Context assembly** — product pulls relevant context (memory, workspace docs, @-mentions, model picker). Visible context builds trust: "Reading: 3 files, memory: 2 facts."
 3. **Generation** — stream tokens immediately; show source chips as they resolve.
 4. **Output** — answer + citations + action affordances (copy, apply, execute, save). The answer ends with a verb, not a period.
-5. **Follow-up** — threaded conversation; references carry over.
+5. **Follow-up** — threaded conversation; references persist.
 6. **Memory** — offer to save useful facts ("Remember that I use Python 3.12?") rather than silently storing everything.
 
 ## Decision Points & Failure Paths
@@ -42,4 +42,3 @@ The user reaches a correct, actionable answer; the session resolves with an acti
 ## Metrics
 
 Completion rate, time-to-first-useful-token, resolution rate, follow-up rate, cost per resolved session, retention of chat users.
-

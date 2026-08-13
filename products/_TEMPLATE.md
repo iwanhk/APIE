@@ -21,7 +21,7 @@ Three to five sentences: what it is, who it is for, and the one-sentence mechani
 
 ## History
 
-Dated timeline of the product. Volatile facts carry "as of" dates.
+Dated timeline of the product. Volatile facts include "as of" dates.
 
 ## Target User
 
@@ -62,4 +62,3 @@ What this product invented or industrialized, and where its patterns could trans
 ## Sources
 
 1. [Title](https://…)
-

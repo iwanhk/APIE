@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Product-Schema-v1",
-  "generated_at": "2026-08-12T01:58:14Z",
-  "count": 5,
+  "generated_at": "2026-08-13T01:08:18Z",
+  "count": 6,
   "items": [
     {
       "id": "cursor",
@@ -128,6 +128,40 @@
       ],
       "file": "products/AI/Perplexity.md",
       "title": "Perplexity"
+    },
+    {
+      "id": "replit",
+      "type": "product",
+      "name": "Replit",
+      "category": "AI",
+      "company": "Replit (Foster City, CA)",
+      "founded": "2016",
+      "status": "active",
+      "tags": [
+        "agentic-coding",
+        "vibe-coding",
+        "cloud-ide",
+        "app-builder",
+        "consumption-pricing",
+        "parallel-agents"
+      ],
+      "last_updated": "2026-08-13",
+      "sources": [
+        "https://replit.com/blog/introducing-agent-3-our-most-autonomous-agent-yet",
+        "https://replit.com/blog/introducing-agent-4-built-for-creativity",
+        "https://replit.com/blog/mobile-apps",
+        "https://aiwiki.ai/wiki/replit_agent",
+        "https://agentmarketcap.ai/blog/2026/04/16/replit-9b-valuation-prosumer-coding-agents-category-repricing",
+        "https://valueaddvc.com/blog/how-does-replit-make-money-525m-arr-9b-valuation-and-the-ai-agent-business-model-explained",
+        "https://www.cnbc.com/2026/05/19/replit-cnbc-disruptor-50-ranking.html",
+        "https://www.usecarly.com/blog/replit-agent-pricing-explained/",
+        "https://docs.replit.com/billing/ai-billing",
+        "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
+        "https://www.01net.it/semgrep-and-replit-expand-integration-to-keep-pace-with-ai-generated-code-at-scale/",
+        "https://www.thepaper.cn/newsDetail_forward_32400622"
+      ],
+      "file": "products/AI/Replit.md",
+      "title": "Replit"
     },
     {
       "id": "robinhood",

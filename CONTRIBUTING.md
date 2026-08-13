@@ -55,7 +55,7 @@ Schema changes affect every AI agent that indexes this repo. Treat them like RFC
 ## Pull Request Checklist
 
 - [ ] File follows the relevant schema (frontmatter + sections)
-- [ ] All volatile facts carry sources and as-of dates
+- [ ] All volatile facts include sources and as-of dates
 - [ ] `scripts/build_dataset.py` runs without validation errors
 - [ ] Index files (`PRODUCTS.md`, `PATTERNS.md`, `SKILLS.md`, …) updated
 - [ ] Links are relative and resolve
@@ -64,4 +64,3 @@ Schema changes affect every AI agent that indexes this repo. Treat them like RFC
 ## Code of Conduct
 
 All interactions are governed by [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Be curious, be precise, and treat disagreements as data.
-

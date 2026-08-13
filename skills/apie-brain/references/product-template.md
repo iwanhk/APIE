@@ -22,7 +22,7 @@ sources: [https://…]
 What it is, who it is for, and the one-sentence mechanism of its success.
 
 ## History
-Dated timeline; volatile facts carry "as of" dates.
+Dated timeline; volatile facts include "as of" dates.
 
 ## Target User
 Who uses it, who pays, and how they differ.
