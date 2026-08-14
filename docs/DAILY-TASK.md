@@ -11,7 +11,7 @@
 
 ### 2. 每日拆解（Day N）
 
-队列（当前）：**Day 006 — Claude**，Day 007 — ChatGPT
+队列（当前）：**Day 007 — ChatGPT**，Day 008 — TBD（Day 006 Claude 已于 2026-08-14 完成）
 
 流程：`products/_TEMPLATE.md` → 按 [Product Schema](APIE-Product-Schema-v1.md) 填 → 事实带来源和 as-of 日期 → 至少链接一个 pattern → 更新 `PRODUCTS.md` 与分类 README。
 

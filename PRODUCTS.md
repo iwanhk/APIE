@@ -11,6 +11,7 @@ Every product teardown follows [APIE Product Schema v1](docs/APIE-Product-Schema
 | Mercor | Mercor | AI / Talent Marketplace | [products/AI/Mercor.md](products/AI/Mercor.md) | 2026-08-09 |
 | Perplexity | Perplexity AI | AI / Answer Engine | [products/AI/Perplexity.md](products/AI/Perplexity.md) | 2026-08-12 |
 | Replit | Replit | AI / App Generation | [products/AI/Replit.md](products/AI/Replit.md) | 2026-08-13 |
+| Claude | Anthropic | AI / Frontier Models | [products/AI/Claude.md](products/AI/Claude.md) | 2026-08-14 |
 | Robinhood | Robinhood Markets | FinTech / Retail Brokerage | [products/FinTech/Robinhood.md](products/FinTech/Robinhood.md) | 2026-08-07 |
 
 ## Watchlist (to be torn down)

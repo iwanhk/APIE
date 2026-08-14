@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Pattern-Schema-v1",
-  "generated_at": "2026-08-13T01:08:18Z",
-  "count": 11,
+  "generated_at": "2026-08-14T02:04:54Z",
+  "count": 13,
   "items": [
     {
       "id": "ai-proctored-vetting",
@@ -19,6 +19,23 @@
       "last_updated": "2026-08-09",
       "file": "patterns/AI-Proctored-Vetting.md",
       "title": "AI-Proctored Vetting"
+    },
+    {
+      "id": "capability-gated-release",
+      "type": "pattern",
+      "name": "Capability-Gated Release",
+      "status": "emerging",
+      "tags": [
+        "ai",
+        "safety",
+        "access-control",
+        "dual-use",
+        "enterprise",
+        "tiering"
+      ],
+      "last_updated": "2026-08-14",
+      "file": "patterns/Capability-Gated-Release.md",
+      "title": "Capability-Gated Release"
     },
     {
       "id": "citation-grounded-generation",
@@ -95,9 +112,26 @@
         "context",
         "retention"
       ],
-      "last_updated": "2026-08-07",
+      "last_updated": "2026-08-14",
       "file": "patterns/Memory.md",
       "title": "Memory"
+    },
+    {
+      "id": "open-protocol-ecosystem",
+      "type": "pattern",
+      "name": "Open Protocol Ecosystem",
+      "status": "emerging",
+      "tags": [
+        "ai",
+        "standards",
+        "ecosystem",
+        "mcp",
+        "developer-platform",
+        "network-effects"
+      ],
+      "last_updated": "2026-08-14",
+      "file": "patterns/Open-Protocol-Ecosystem.md",
+      "title": "Open Protocol Ecosystem"
     },
     {
       "id": "parallel-agent-orchestration",

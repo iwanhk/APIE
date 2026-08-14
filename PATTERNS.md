@@ -17,6 +17,8 @@ The pattern library is the core of APIE. Each pattern is a repeatable mechanism 
 | Spec-Driven Development | Emerging | [patterns/Spec-Driven-Development.md](patterns/Spec-Driven-Development.md) | Compliance & research specs (candidate) |
 | Effort-Based Pricing | Emerging | [patterns/Effort-Based-Pricing.md](patterns/Effort-Based-Pricing.md) | Professional services (metered AI work) |
 | Parallel Agent Orchestration | Emerging | [patterns/Parallel-Agent-Orchestration.md](patterns/Parallel-Agent-Orchestration.md) | Investment research (parallel analyst teams) |
+| Capability-Gated Release | Emerging | [patterns/Capability-Gated-Release.md](patterns/Capability-Gated-Release.md) | Financial products (capability-tiered access) |
+| Open Protocol Ecosystem | Emerging | [patterns/Open-Protocol-Ecosystem.md](patterns/Open-Protocol-Ecosystem.md) | Financial data interchange (open research protocol) |
 
 ## Pattern Areas (backlog)
 

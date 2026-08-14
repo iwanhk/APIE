@@ -15,6 +15,8 @@ The core of APIE. A pattern is a **repeatable mechanism** — a solution structu
 | Expert Judgment Marketplace | emerging | [Expert-Judgment-Marketplace.md](Expert-Judgment-Marketplace.md) | Mercor, Scale AI / Outlier, Surge AI |
 | Citation-Grounded Generation | emerging | [Citation-Grounded-Generation.md](Citation-Grounded-Generation.md) | Perplexity, Google AI Overviews, ChatGPT Search |
 | Spec-Driven Development | emerging | [Spec-Driven-Development.md](Spec-Driven-Development.md) | GitHub SpecKit, Fission-AI OpenSpec |
+| Capability-Gated Release | emerging | [Capability-Gated-Release.md](Capability-Gated-Release.md) | Fable 5/Mythos 5, OpenAI GPT-5.6 preview, Gemini 3.5 Flash Cyber |
+| Open Protocol Ecosystem | emerging | [Open-Protocol-Ecosystem.md](Open-Protocol-Ecosystem.md) | MCP (Anthropic), LSP (Microsoft) |
 
 ## Pattern Areas (backlog)
 

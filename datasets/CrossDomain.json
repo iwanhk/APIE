@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Cross-Domain-Schema-v1",
-  "generated_at": "2026-08-13T01:08:18Z",
-  "count": 5,
+  "generated_at": "2026-08-14T02:04:54Z",
+  "count": 7,
   "items": [
     {
       "id": "ai-proctored-vetting-to-investment-advisory",
@@ -14,6 +14,18 @@
       "last_updated": "2026-08-09",
       "file": "cross-domain/AI-Proctored-Vetting-to-Investment-Advisory.md",
       "title": "AI-Proctored Vetting → Investment Advisory"
+    },
+    {
+      "id": "capability-gated-release-to-financial-products",
+      "type": "cross-domain",
+      "name": "Capability-Gated Release → Financial Products",
+      "source_domain": "AI Software (Frontier Models)",
+      "target_domain": "Financial Products (Funds & Advisory)",
+      "source_pattern": "patterns/Capability-Gated-Release.md",
+      "status": "hypothesis",
+      "last_updated": "2026-08-14",
+      "file": "cross-domain/Capability-Gated-Release-to-Financial-Products.md",
+      "title": "Capability-Gated Release → Financial Products"
     },
     {
       "id": "citation-grounded-generation-to-investment-research",
@@ -50,6 +62,18 @@
       "last_updated": "2026-08-07",
       "file": "cross-domain/Netflix-Recommendation-to-Investment.md",
       "title": "Netflix Recommendation → Investment"
+    },
+    {
+      "id": "open-protocol-ecosystem-to-financial-data-interchange",
+      "type": "cross-domain",
+      "name": "Open Protocol Ecosystem → Financial Data Interchange",
+      "source_domain": "AI Software (Developer Platforms)",
+      "target_domain": "Financial Data & Investment Research",
+      "source_pattern": "patterns/Open-Protocol-Ecosystem.md",
+      "status": "hypothesis",
+      "last_updated": "2026-08-14",
+      "file": "cross-domain/Open-Protocol-Ecosystem-to-Financial-Data-Interchange.md",
+      "title": "Open Protocol Ecosystem → Financial Data Interchange"
     },
     {
       "id": "parallel-agent-orchestration-to-investment-research",

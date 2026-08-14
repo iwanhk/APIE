@@ -11,6 +11,8 @@ The part of APIE no one else builds: mechanisms proven in one industry, transpla
 | Citation-Grounded Generation → Investment Research | hypothesis | [Citation-Grounded-Generation-to-Investment-Research.md](Citation-Grounded-Generation-to-Investment-Research.md) |
 | Effort-Based Pricing → Professional Services | hypothesis | [Effort-Based-Pricing-to-Professional-Services.md](Effort-Based-Pricing-to-Professional-Services.md) |
 | Parallel Agent Orchestration → Investment Research | hypothesis | [Parallel-Agent-Orchestration-to-Investment-Research.md](Parallel-Agent-Orchestration-to-Investment-Research.md) |
+| Capability-Gated Release → Financial Products | hypothesis | [Capability-Gated-Release-to-Financial-Products.md](Capability-Gated-Release-to-Financial-Products.md) |
+| Open Protocol Ecosystem → Financial Data Interchange | hypothesis | [Open-Protocol-Ecosystem-to-Financial-Data-Interchange.md](Open-Protocol-Ecosystem-to-Financial-Data-Interchange.md) |
 
 ## Queued Transfers
 

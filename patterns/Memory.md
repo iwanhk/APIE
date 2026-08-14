@@ -4,7 +4,7 @@ type: pattern
 name: Memory
 status: emerging
 tags: [ai, personalization, context, retention]
-last_updated: 2026-08-07
+last_updated: 2026-08-14
 ---
 
 # Memory
@@ -36,6 +36,8 @@ Default LLM behavior is stateless — it forgets everything between sessions. Fo
 ## Examples
 
 - **ChatGPT Memory** — saved facts about the user (name, job, preferences) retrieved at prompt time; user-visible, editable, deletable.
+- **Claude (consumer)** — automatic memory of preferences and project context shipped for Team/Enterprise Sep 10, 2025 and expanded to Pro/Max Oct 23, 2025; memory persists across chats and is searchable; memories stay scoped to their project.
+- **Claude (developer)** — file-based memory tool (Sep 2025) stores and consults files in a dedicated memory directory that persists across conversations outside the context window — memory as storage, not just retrieval; Claude Science (Jun 2026) adds searchable memory plus resource-use monitoring for long research runs; Claude Tag (Jun 2026) keeps a persistent context layer per Slack channel, learning projects and monitoring ambient conversation.
 - **Cursor** — project context and codebase index persist across sessions; the editor "knows" the code without re-explanation.
 - **Notion AI** — workspace knowledge is the context; answers reflect your own documents.
 - **Replit** — session/workspace state persists so an agent can resume long builds.
@@ -71,4 +73,3 @@ Default LLM behavior is stateless — it forgets everything between sessions. Fo
 - Privacy/regulatory exposure (GDPR right to erasure, health data rules)
 - Memory bloat: retrieving everything = context overflow = worse answers
 - The creepy factor: remembering without showing or asking erodes trust
-
