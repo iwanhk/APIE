@@ -4,7 +4,7 @@ type: pattern
 name: Memory
 status: emerging
 tags: [ai, personalization, context, retention]
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Memory
@@ -41,6 +41,9 @@ Default LLM behavior is stateless — it forgets everything between sessions. Fo
 - **Cursor** — project context and codebase index persist across sessions; the editor "knows" the code without re-explanation.
 - **Notion AI** — workspace knowledge is the context; answers reflect your own documents.
 - **Replit** — session/workspace state persists so an agent can resume long builds.
+- **ChatGPT (2026)** — saved facts upgraded (Jun 4, 2026) to automatic memory synthesis ("Dreaming"): memories self-update as facts age (e.g., "you are going to Singapore in July" becomes "you went to Singapore"), 2x capacity for Plus/Pro; **Computer History** (Aug 13, 2026) extends memory to a recorded activity timeline on macOS — the bridge to the [Ambient-Activity-Memory](Ambient-Activity-Memory.md) pattern.
+- **Mosaic Ocean (YC S26, Aug 2026)** — shared memory for multiplayer AI agents: a team of agents reads/writes one memory store so context survives across agents and sessions — memory as a collaboration bus, not just a per-user profile.
+- **mem0 / MemPalace** — open-source memory layers (Universal Memory Layer, MemPalace benchmarked storage) industrializing memory as a reusable service between apps and models.
 
 ## Engineering
 
@@ -65,7 +68,7 @@ Default LLM behavior is stateless — it forgets everything between sessions. Fo
 
 ## Cross-Domain Transfers
 
-- Candidates: Memory → CRM (customer history as shared memory), Memory → healthcare (continuity of care), Memory → investment advisory (knowing the client, with audit)
+- Candidates: Memory → CRM (customer history as shared memory), Memory → healthcare (continuity of care), Memory → investment advisory (knowing the client, with audit), Memory → multiplayer agent teams (shared agent memory bus — see Mosaic Ocean)
 
 ## Pitfalls
 

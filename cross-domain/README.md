@@ -13,6 +13,7 @@ The part of APIE no one else builds: mechanisms proven in one industry, transpla
 | Parallel Agent Orchestration → Investment Research | hypothesis | [Parallel-Agent-Orchestration-to-Investment-Research.md](Parallel-Agent-Orchestration-to-Investment-Research.md) |
 | Capability-Gated Release → Financial Products | hypothesis | [Capability-Gated-Release-to-Financial-Products.md](Capability-Gated-Release-to-Financial-Products.md) |
 | Open Protocol Ecosystem → Financial Data Interchange | hypothesis | [Open-Protocol-Ecosystem-to-Financial-Data-Interchange.md](Open-Protocol-Ecosystem-to-Financial-Data-Interchange.md) |
+| Ambient Activity Memory → Compliance Audit Trails | hypothesis | [Ambient-Activity-Memory-to-Compliance-Audit-Trails.md](Ambient-Activity-Memory-to-Compliance-Audit-Trails.md) |
 
 ## Queued Transfers
 

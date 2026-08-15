@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Pattern-Schema-v1",
-  "generated_at": "2026-08-14T02:04:54Z",
-  "count": 13,
+  "generated_at": "2026-08-15T01:15:02Z",
+  "count": 14,
   "items": [
     {
       "id": "ai-proctored-vetting",
@@ -19,6 +19,23 @@
       "last_updated": "2026-08-09",
       "file": "patterns/AI-Proctored-Vetting.md",
       "title": "AI-Proctored Vetting"
+    },
+    {
+      "id": "ambient-activity-memory",
+      "type": "pattern",
+      "name": "Ambient Activity Memory",
+      "status": "emerging",
+      "tags": [
+        "ai",
+        "memory",
+        "privacy",
+        "agents",
+        "context",
+        "desktop"
+      ],
+      "last_updated": "2026-08-15",
+      "file": "patterns/Ambient-Activity-Memory.md",
+      "title": "Ambient Activity Memory"
     },
     {
       "id": "capability-gated-release",
@@ -112,7 +129,7 @@
         "context",
         "retention"
       ],
-      "last_updated": "2026-08-14",
+      "last_updated": "2026-08-15",
       "file": "patterns/Memory.md",
       "title": "Memory"
     },

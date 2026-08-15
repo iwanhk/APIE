@@ -9,3 +9,4 @@ Worked outputs of APIE skills — proof the engine runs.
 | Perplexity × Mercor — 20 innovations | Innovation Challenge | [Innovation-Challenge-Perplexity-x-Mercor.md](Innovation-Challenge-Perplexity-x-Mercor.md) |
 | Replit × Prodigy Research — 20 innovations | Innovation Challenge | [Innovation-Challenge-Replit-x-Prodigy-Research.md](Innovation-Challenge-Replit-x-Prodigy-Research.md) |
 | Hyperframes × Sidekick — 20 innovations | Innovation Challenge | [Innovation-Challenge-Hyperframes-x-Sidekick.md](Innovation-Challenge-Hyperframes-x-Sidekick.md) |
+| ChatGPT × Robinhood — 20 innovations | Innovation Challenge | [Innovation-Challenge-ChatGPT-x-Robinhood.md](Innovation-Challenge-ChatGPT-x-Robinhood.md) |

@@ -12,11 +12,12 @@ Every product teardown follows [APIE Product Schema v1](docs/APIE-Product-Schema
 | Perplexity | Perplexity AI | AI / Answer Engine | [products/AI/Perplexity.md](products/AI/Perplexity.md) | 2026-08-12 |
 | Replit | Replit | AI / App Generation | [products/AI/Replit.md](products/AI/Replit.md) | 2026-08-13 |
 | Claude | Anthropic | AI / Frontier Models | [products/AI/Claude.md](products/AI/Claude.md) | 2026-08-14 |
+| ChatGPT | OpenAI | AI / Consumer Assistant | [products/AI/ChatGPT.md](products/AI/ChatGPT.md) | 2026-08-15 |
 | Robinhood | Robinhood Markets | FinTech / Retail Brokerage | [products/FinTech/Robinhood.md](products/FinTech/Robinhood.md) | 2026-08-07 |
 
 ## Watchlist (to be torn down)
 
-**AI:** ChatGPT, Claude, Gamma, Granola, Windsurf, Harvey
+**AI:** Claude, Gamma, Granola, Windsurf, Harvey
 
 **FinTech:** Coinbase, Carta, Stripe, Plaid, Mercury, Wise
 

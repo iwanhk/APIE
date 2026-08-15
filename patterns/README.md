@@ -17,6 +17,7 @@ The core of APIE. A pattern is a **repeatable mechanism** — a solution structu
 | Spec-Driven Development | emerging | [Spec-Driven-Development.md](Spec-Driven-Development.md) | GitHub SpecKit, Fission-AI OpenSpec |
 | Capability-Gated Release | emerging | [Capability-Gated-Release.md](Capability-Gated-Release.md) | Fable 5/Mythos 5, OpenAI GPT-5.6 preview, Gemini 3.5 Flash Cyber |
 | Open Protocol Ecosystem | emerging | [Open-Protocol-Ecosystem.md](Open-Protocol-Ecosystem.md) | MCP (Anthropic), LSP (Microsoft) |
+| Ambient Activity Memory | emerging | [Ambient-Activity-Memory.md](Ambient-Activity-Memory.md) | OpenAI Computer History, Microsoft Recall, Rewind, Astra |
 
 ## Pattern Areas (backlog)
 

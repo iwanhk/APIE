@@ -19,6 +19,7 @@ The pattern library is the core of APIE. Each pattern is a repeatable mechanism 
 | Parallel Agent Orchestration | Emerging | [patterns/Parallel-Agent-Orchestration.md](patterns/Parallel-Agent-Orchestration.md) | Investment research (parallel analyst teams) |
 | Capability-Gated Release | Emerging | [patterns/Capability-Gated-Release.md](patterns/Capability-Gated-Release.md) | Financial products (capability-tiered access) |
 | Open Protocol Ecosystem | Emerging | [patterns/Open-Protocol-Ecosystem.md](patterns/Open-Protocol-Ecosystem.md) | Financial data interchange (open research protocol) |
+| Ambient Activity Memory | Emerging | [patterns/Ambient-Activity-Memory.md](patterns/Ambient-Activity-Memory.md) | Compliance audit trails (event-stream memory) |
 
 ## Pattern Areas (backlog)
 

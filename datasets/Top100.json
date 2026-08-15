@@ -1,11 +1,11 @@
 {
   "schema": "APIE-Top100-Watchlist-v0",
-  "generated_at": "2026-08-14",
-  "count": 31,
+  "generated_at": "2026-08-15",
+  "count": 35,
   "notes": "Curated watchlist. Products graduate to a full teardown in products/ when a teardown is published.",
   "items": [
     {"rank": 1, "name": "Cursor", "category": "AI", "reason": "Defined agentic coding; parallel agents + in-house model; fastest-ever SaaS scaling", "status": "teardown-done", "added": "2026-08-07"},
-    {"rank": 2, "name": "ChatGPT", "category": "AI", "reason": "Brought LLMs to the mass market; memory + artifacts turned chat into a workspace", "status": "planned", "added": "2026-08-07"},
+    {"rank": 2, "name": "ChatGPT", "category": "AI", "reason": "Brought LLMs to the mass market; memory + artifacts turned chat into a workspace", "status": "teardown-done", "added": "2026-08-07"},
     {"rank": 3, "name": "Claude", "category": "AI", "reason": "Long-context + agentic coding leadership; enterprise trust positioning", "status": "teardown-done", "added": "2026-08-07"},
     {"rank": 4, "name": "Perplexity", "category": "AI", "reason": "Citations-first answer engine; search category redefinition", "status": "teardown-done", "added": "2026-08-07"},
     {"rank": 5, "name": "Lovable", "category": "AI", "reason": "Vibe-coding to production app; no-code AI build loop", "status": "teardown-done", "added": "2026-08-07"},
@@ -34,6 +34,10 @@
     {"rank": 28, "name": "Headroom", "category": "AI", "reason": "Compresses tool outputs/logs/RAG chunks before they reach the LLM (~20% fewer tokens); context compression as cost engineering (66K+ stars, Aug 13 2026)", "status": "planned", "added": "2026-08-13"},
     {"rank": 29, "name": "Cerenovus", "category": "FinTech", "reason": "YC S26 AI trained on Enron corpus claims to detect collapse signals years early; archival-corpus early-warning mechanism (launched Aug 12 2026)", "status": "planned", "added": "2026-08-14"},
     {"rank": 30, "name": "Tenor", "category": "Enterprise", "reason": "YC S26 manager layer that turns employees into AI workers; org-level agent deployment control plane (launched Aug 12 2026)", "status": "planned", "added": "2026-08-14"},
-    {"rank": 31, "name": "hiloop", "category": "AI", "reason": "YC S26 compute layer for research agents: forkable, snapshot-able agent runs for reproducibility (Jul 2026)", "status": "planned", "added": "2026-08-14"}
+    {"rank": 31, "name": "hiloop", "category": "AI", "reason": "YC S26 compute layer for research agents: forkable, snapshot-able agent runs for reproducibility (Jul 2026)", "status": "planned", "added": "2026-08-14"},
+    {"rank": 32, "name": "OpenMontage", "category": "AI", "reason": "Open-source agentic video production system: 12 production pipelines, 100+ tools, 700+ nodes (47K+ stars, Aug 2026)", "status": "planned", "added": "2026-08-15"},
+    {"rank": 33, "name": "Bullet", "category": "AI", "reason": "YC S26 speed-first coding agent launched on HN (Aug 13 2026); velocity as the differentiator vs capability benchmarks", "status": "planned", "added": "2026-08-15"},
+    {"rank": 34, "name": "Flownie", "category": "Enterprise", "reason": "Open and visual data workflow platform with AI agent assistance (Show HN, Aug 14 2026); agent-native ETL", "status": "planned", "added": "2026-08-15"},
+    {"rank": 35, "name": "Mosaic Ocean", "category": "AI", "reason": "YC S26 shared memory for multiplayer AI agents; memory as a collaboration bus (Aug 2026)", "status": "planned", "added": "2026-08-15"}
   ]
 }
