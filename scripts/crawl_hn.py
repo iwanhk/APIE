@@ -25,13 +25,13 @@ DEFAULT_KEYWORDS = ["AI", "launch", "YC", "product", "LLM", "agent"]
 def fetch_stories(days: int, keywords: list[str]) -> list[dict]:
     since = int((datetime.now(timezone.utc) - timedelta(days=days)).timestamp())
     query = " OR ".join(keywords)
-    params = urllib.parse.urlencode({
-        "query": query,
-        "tags": "story",
-        "numericFilters": f"created_at_i>{since}",
-        "hitsPerPage": "50",
-    })
-    url = f"https://hn.algolia.com/api/v1/search_by_date?{params}"
+    # Algolia treats "+" as AND, which breaks multi-keyword OR queries;
+    # percent-encode spaces so "AI OR launch" is a real boolean query.
+    url = (
+        "https://hn.algolia.com/api/v1/search_by_date"
+        f"?query={urllib.parse.quote(query, safe='')}"
+        f"&tags=story&numericFilters=created_at_i%3E{since}&hitsPerPage=50"
+    )
     with urllib.request.urlopen(url, timeout=30) as resp:
         return json.loads(resp.read().decode("utf-8")).get("hits", [])
 
@@ -52,4 +52,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

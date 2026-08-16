@@ -13,9 +13,10 @@ AI-native products and developer tools.
 | Replit | Replit | [Replit.md](Replit.md) |
 | Claude | Anthropic | [Claude.md](Claude.md) |
 | ChatGPT | OpenAI | [ChatGPT.md](ChatGPT.md) |
+| Windsurf | Cognition AI | [Windsurf.md](Windsurf.md) |
 
 ## Watchlist
 
-Claude (Anthropic) · Gamma · Granola · Windsurf · Harvey · Midjourney · Suno
+Claude (Anthropic) · Gamma · Granola · Harvey · OpenClaw · Kimi Work · Midjourney · Suno
 
-Daily reverse-engineering queue: Day 007 — ChatGPT (done 2026-08-15), **Day 008 — TBD**.
+Daily reverse-engineering queue: Day 008 — Windsurf (done 2026-08-16), **Day 009 — TBD**.

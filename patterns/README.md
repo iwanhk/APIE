@@ -16,8 +16,9 @@ The core of APIE. A pattern is a **repeatable mechanism** — a solution structu
 | Citation-Grounded Generation | emerging | [Citation-Grounded-Generation.md](Citation-Grounded-Generation.md) | Perplexity, Google AI Overviews, ChatGPT Search |
 | Spec-Driven Development | emerging | [Spec-Driven-Development.md](Spec-Driven-Development.md) | GitHub SpecKit, Fission-AI OpenSpec |
 | Capability-Gated Release | emerging | [Capability-Gated-Release.md](Capability-Gated-Release.md) | Fable 5/Mythos 5, OpenAI GPT-5.6 preview, Gemini 3.5 Flash Cyber |
-| Open Protocol Ecosystem | emerging | [Open-Protocol-Ecosystem.md](Open-Protocol-Ecosystem.md) | MCP (Anthropic), LSP (Microsoft) |
-| Ambient Activity Memory | emerging | [Ambient-Activity-Memory.md](Ambient-Activity-Memory.md) | OpenAI Computer History, Microsoft Recall, Rewind, Astra |
+| Open Protocol Ecosystem | emerging | [Open-Protocol-Ecosystem.md](Open-Protocol-Ecosystem.md) | MCP (Anthropic), LSP (Microsoft), Windsurf MCP client |
+| Ambient Activity Memory | emerging | [Ambient-Activity-Memory.md](Ambient-Activity-Memory.md) | OpenAI Computer History, Microsoft Recall, Rewind, Astra, Windsurf Cascade Memories |
+| Context-Economy Engineering | emerging | [Context-Economy-Engineering.md](Context-Economy-Engineering.md) | Windsurf Cascade, Headroom, caveman, omo/lazycodex |
 
 ## Pattern Areas (backlog)
 

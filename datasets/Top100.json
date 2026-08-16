@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Top100-Watchlist-v0",
-  "generated_at": "2026-08-15",
-  "count": 35,
+  "generated_at": "2026-08-16",
+  "count": 38,
   "notes": "Curated watchlist. Products graduate to a full teardown in products/ when a teardown is published.",
   "items": [
     {"rank": 1, "name": "Cursor", "category": "AI", "reason": "Defined agentic coding; parallel agents + in-house model; fastest-ever SaaS scaling", "status": "teardown-done", "added": "2026-08-07"},
@@ -38,6 +38,9 @@
     {"rank": 32, "name": "OpenMontage", "category": "AI", "reason": "Open-source agentic video production system: 12 production pipelines, 100+ tools, 700+ nodes (47K+ stars, Aug 2026)", "status": "planned", "added": "2026-08-15"},
     {"rank": 33, "name": "Bullet", "category": "AI", "reason": "YC S26 speed-first coding agent launched on HN (Aug 13 2026); velocity as the differentiator vs capability benchmarks", "status": "planned", "added": "2026-08-15"},
     {"rank": 34, "name": "Flownie", "category": "Enterprise", "reason": "Open and visual data workflow platform with AI agent assistance (Show HN, Aug 14 2026); agent-native ETL", "status": "planned", "added": "2026-08-15"},
-    {"rank": 35, "name": "Mosaic Ocean", "category": "AI", "reason": "YC S26 shared memory for multiplayer AI agents; memory as a collaboration bus (Aug 2026)", "status": "planned", "added": "2026-08-15"}
+    {"rank": 35, "name": "Mosaic Ocean", "category": "AI", "reason": "YC S26 shared memory for multiplayer AI agents; memory as a collaboration bus (Aug 2026)", "status": "planned", "added": "2026-08-15"},
+    {"rank": 36, "name": "OpenClaw", "category": "AI", "reason": "Open-source personal AI assistant, any OS/platform; local gateway + skill ecosystem, ~386K stars (GitHub Trending, Aug 16 2026)", "status": "planned", "added": "2026-08-16"},
+    {"rank": 37, "name": "Kimi Work", "category": "AI", "reason": "Moonshot AI local desktop agent on K2.6 with 300-sub-agent swarm; attaches raw agent sessions to feedback reports — agent-session transparency (Jun–Aug 2026)", "status": "planned", "added": "2026-08-16"},
+    {"rank": 38, "name": "ThoughtDAG", "category": "AI", "reason": "Editable context graph for LLM conversations (Show HN, Aug 15 2026, 111 pts); context as graph, not linear transcript", "status": "planned", "added": "2026-08-16"}
   ]
 }

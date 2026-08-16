@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Product-Schema-v1",
-  "generated_at": "2026-08-15T01:15:02Z",
-  "count": 8,
+  "generated_at": "2026-08-16T01:10:24Z",
+  "count": 9,
   "items": [
     {
       "id": "chatgpt",
@@ -278,6 +278,46 @@
       ],
       "file": "products/AI/Replit.md",
       "title": "Replit"
+    },
+    {
+      "id": "windsurf",
+      "type": "product",
+      "name": "Windsurf",
+      "category": "AI",
+      "company": "Cognition AI (acquired Windsurf/Codeium, July 2025)",
+      "founded": "2021",
+      "status": "acquired",
+      "tags": [
+        "developer-tools",
+        "agentic-coding",
+        "ai-ide",
+        "context-engine",
+        "mcp",
+        "memory"
+      ],
+      "last_updated": "2026-08-16",
+      "sources": [
+        "https://www.latent.space/p/windsurf",
+        "https://baike.baidu.com/item/Varun%20Mohan/66220031",
+        "https://www.techspot.com/downloads/7708-windsurf.html",
+        "https://www.cnbc.com/2025/07/14/cognition-to-buy-ai-startup-windsurf-days-after-google-poached-ceo.html",
+        "https://www.nytimes.com/2025/07/14/technology/cognition-ai-windsurf.html",
+        "https://www.moneycontrol.com/technology/cognition-ai-buys-windsurf-after-google-hires-ceo-varun-mohan-and-top-executives-in-2-4-billion-deal-article-13279533.html",
+        "https://www.mitsloanindia.com/article/cognition-raises-1-billion-at-26-billion-valuation/",
+        "https://www.kucoin.com/news/flash/cognition-s-annual-revenue-exceeds-500m-after-acquiring-windsurf",
+        "https://cognition.com/blog/devin-in-windsurf",
+        "https://devin.ai/blog/devin-review-windsurf",
+        "https://docs.devin.ai/windsurf/plugins/cascade/workflows",
+        "https://docs.devin.ai/zh/desktop/devin-desktop-faq",
+        "https://www.morphllm.com/comparisons/cursor-vs-windsurf-vs-copilot",
+        "https://ofox.ai/zh/blog/vibe-coding-tools-comparison-cursor-windsurf-roo-code-claude-code-2026/",
+        "https://shiporskip.io/tool/windsurf-wave-11-cascade-agent-multi-file-edits-memory",
+        "https://shiporskip.io/tool/windsurf-wave-12-swe-1-model-cascade-agents",
+        "https://awesomeagents.ai/reviews/review-windsurf/",
+        "https://github.com/OnlyTerp/windsurf-unlocked"
+      ],
+      "file": "products/AI/Windsurf.md",
+      "title": "Windsurf"
     },
     {
       "id": "robinhood",

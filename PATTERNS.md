@@ -20,6 +20,7 @@ The pattern library is the core of APIE. Each pattern is a repeatable mechanism 
 | Capability-Gated Release | Emerging | [patterns/Capability-Gated-Release.md](patterns/Capability-Gated-Release.md) | Financial products (capability-tiered access) |
 | Open Protocol Ecosystem | Emerging | [patterns/Open-Protocol-Ecosystem.md](patterns/Open-Protocol-Ecosystem.md) | Financial data interchange (open research protocol) |
 | Ambient Activity Memory | Emerging | [patterns/Ambient-Activity-Memory.md](patterns/Ambient-Activity-Memory.md) | Compliance audit trails (event-stream memory) |
+| Context-Economy Engineering | Emerging | [patterns/Context-Economy-Engineering.md](patterns/Context-Economy-Engineering.md) | Mobile markets (data/battery-budget design) |
 
 ## Pattern Areas (backlog)
 

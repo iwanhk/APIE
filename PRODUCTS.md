@@ -13,11 +13,12 @@ Every product teardown follows [APIE Product Schema v1](docs/APIE-Product-Schema
 | Replit | Replit | AI / App Generation | [products/AI/Replit.md](products/AI/Replit.md) | 2026-08-13 |
 | Claude | Anthropic | AI / Frontier Models | [products/AI/Claude.md](products/AI/Claude.md) | 2026-08-14 |
 | ChatGPT | OpenAI | AI / Consumer Assistant | [products/AI/ChatGPT.md](products/AI/ChatGPT.md) | 2026-08-15 |
+| Windsurf | Cognition AI | AI / Developer Tools | [products/AI/Windsurf.md](products/AI/Windsurf.md) | 2026-08-16 |
 | Robinhood | Robinhood Markets | FinTech / Retail Brokerage | [products/FinTech/Robinhood.md](products/FinTech/Robinhood.md) | 2026-08-07 |
 
 ## Watchlist (to be torn down)
 
-**AI:** Claude, Gamma, Granola, Windsurf, Harvey
+**AI:** Claude, Gamma, Granola, Harvey, OpenClaw, Kimi Work
 
 **FinTech:** Coinbase, Carta, Stripe, Plaid, Mercury, Wise
 

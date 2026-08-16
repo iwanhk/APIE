@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Cross-Domain-Schema-v1",
-  "generated_at": "2026-08-15T01:15:02Z",
-  "count": 8,
+  "generated_at": "2026-08-16T01:10:24Z",
+  "count": 9,
   "items": [
     {
       "id": "ai-proctored-vetting-to-investment-advisory",
@@ -50,6 +50,18 @@
       "last_updated": "2026-08-12",
       "file": "cross-domain/Citation-Grounded-Generation-to-Investment-Research.md",
       "title": "Citation-Grounded Generation → Investment Research"
+    },
+    {
+      "id": "context-economy-engineering-to-mobile-markets",
+      "type": "cross-domain",
+      "name": "Context-Economy Engineering → Mobile Markets",
+      "source_domain": "AI Software (Agentic Coding)",
+      "target_domain": "Mobile Consumer (Emerging Markets)",
+      "source_pattern": "patterns/Context-Economy-Engineering.md",
+      "status": "hypothesis",
+      "last_updated": "2026-08-16",
+      "file": "cross-domain/Context-Economy-Engineering-to-Mobile-Markets.md",
+      "title": "Context-Economy Engineering → Mobile Markets"
     },
     {
       "id": "effort-based-pricing-to-professional-services",

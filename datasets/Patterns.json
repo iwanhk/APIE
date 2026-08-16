@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Pattern-Schema-v1",
-  "generated_at": "2026-08-15T01:15:02Z",
-  "count": 14,
+  "generated_at": "2026-08-16T01:10:24Z",
+  "count": 15,
   "items": [
     {
       "id": "ai-proctored-vetting",
@@ -69,6 +69,24 @@
       "last_updated": "2026-08-12",
       "file": "patterns/Citation-Grounded-Generation.md",
       "title": "Citation-Grounded Generation"
+    },
+    {
+      "id": "context-economy-engineering",
+      "type": "pattern",
+      "name": "Context-Economy Engineering",
+      "status": "emerging",
+      "tags": [
+        "ai",
+        "agents",
+        "cost",
+        "performance",
+        "llm",
+        "context",
+        "token-economics"
+      ],
+      "last_updated": "2026-08-16",
+      "file": "patterns/Context-Economy-Engineering.md",
+      "title": "Context-Economy Engineering"
     },
     {
       "id": "curation",

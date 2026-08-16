@@ -14,6 +14,7 @@ The part of APIE no one else builds: mechanisms proven in one industry, transpla
 | Capability-Gated Release → Financial Products | hypothesis | [Capability-Gated-Release-to-Financial-Products.md](Capability-Gated-Release-to-Financial-Products.md) |
 | Open Protocol Ecosystem → Financial Data Interchange | hypothesis | [Open-Protocol-Ecosystem-to-Financial-Data-Interchange.md](Open-Protocol-Ecosystem-to-Financial-Data-Interchange.md) |
 | Ambient Activity Memory → Compliance Audit Trails | hypothesis | [Ambient-Activity-Memory-to-Compliance-Audit-Trails.md](Ambient-Activity-Memory-to-Compliance-Audit-Trails.md) |
+| Context-Economy Engineering → Mobile Markets | hypothesis | [Context-Economy-Engineering-to-Mobile-Markets.md](Context-Economy-Engineering-to-Mobile-Markets.md) |
 
 ## Queued Transfers
 
