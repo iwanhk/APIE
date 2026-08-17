@@ -21,6 +21,7 @@ The pattern library is the core of APIE. Each pattern is a repeatable mechanism 
 | Open Protocol Ecosystem | Emerging | [patterns/Open-Protocol-Ecosystem.md](patterns/Open-Protocol-Ecosystem.md) | Financial data interchange (open research protocol) |
 | Ambient Activity Memory | Emerging | [patterns/Ambient-Activity-Memory.md](patterns/Ambient-Activity-Memory.md) | Compliance audit trails (event-stream memory) |
 | Context-Economy Engineering | Emerging | [patterns/Context-Economy-Engineering.md](patterns/Context-Economy-Engineering.md) | Mobile markets (data/battery-budget design) |
+| Agent Skill Marketplace | Emerging | [patterns/Agent-Skill-Marketplace.md](patterns/Agent-Skill-Marketplace.md) | Regulatory compliance packs (installable rulebooks) |
 
 ## Pattern Areas (backlog)
 

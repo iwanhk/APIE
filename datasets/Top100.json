@@ -1,46 +1,336 @@
 {
   "schema": "APIE-Top100-Watchlist-v0",
-  "generated_at": "2026-08-16",
-  "count": 38,
+  "generated_at": "2026-08-17",
+  "count": 41,
   "notes": "Curated watchlist. Products graduate to a full teardown in products/ when a teardown is published.",
   "items": [
-    {"rank": 1, "name": "Cursor", "category": "AI", "reason": "Defined agentic coding; parallel agents + in-house model; fastest-ever SaaS scaling", "status": "teardown-done", "added": "2026-08-07"},
-    {"rank": 2, "name": "ChatGPT", "category": "AI", "reason": "Brought LLMs to the mass market; memory + artifacts turned chat into a workspace", "status": "teardown-done", "added": "2026-08-07"},
-    {"rank": 3, "name": "Claude", "category": "AI", "reason": "Long-context + agentic coding leadership; enterprise trust positioning", "status": "teardown-done", "added": "2026-08-07"},
-    {"rank": 4, "name": "Perplexity", "category": "AI", "reason": "Citations-first answer engine; search category redefinition", "status": "teardown-done", "added": "2026-08-07"},
-    {"rank": 5, "name": "Lovable", "category": "AI", "reason": "Vibe-coding to production app; no-code AI build loop", "status": "teardown-done", "added": "2026-08-07"},
-    {"rank": 6, "name": "Replit", "category": "AI", "reason": "Browser-based dev environment + agent; autonomous build loop", "status": "teardown-done", "added": "2026-08-07"},
-    {"rank": 7, "name": "Robinhood", "category": "FinTech", "reason": "Gamified, zero-friction consumer investing; behavioral product design", "status": "teardown-done", "added": "2026-08-07"},
-    {"rank": 8, "name": "Stripe", "category": "FinTech", "reason": "Developer-first payments; modular financial infrastructure", "status": "planned", "added": "2026-08-07"},
-    {"rank": 9, "name": "Notion", "category": "SaaS", "reason": "Blocks as universal substrate; template network effects", "status": "planned", "added": "2026-08-07"},
-    {"rank": 10, "name": "Linear", "category": "SaaS", "reason": "Speed as product philosophy; keyboard-first power UX", "status": "planned", "added": "2026-08-07"},
-    {"rank": 11, "name": "TikTok", "category": "Consumer", "reason": "Implicit-signal recommendation engine; the feed is the product", "status": "planned", "added": "2026-08-07"},
-    {"rank": 12, "name": "Netflix", "category": "Consumer", "reason": "Catalog-to-attention machine; recommendation at industrial scale", "status": "planned", "added": "2026-08-07"},
-    {"rank": 13, "name": "Spotify", "category": "Consumer", "reason": "Taste modeling + Wrapped; personalization made social", "status": "planned", "added": "2026-08-07"},
-    {"rank": 14, "name": "Airbnb", "category": "Consumer", "reason": "Two-sided marketplace trust engineering", "status": "planned", "added": "2026-08-07"},
-    {"rank": 15, "name": "Mercor", "category": "AI", "reason": "AI-proctored vetting + expert-judgment marketplace; $2B gross run rate and $20B valuation talks (2026)", "status": "teardown-done", "added": "2026-08-09"},
-    {"rank": 16, "name": "OpenClaw", "category": "AI", "reason": "Open-source personal AI assistant, 385K+ GitHub stars as of 2026-08-09; local-first agent OS", "status": "planned", "added": "2026-08-09"},
-    {"rank": 17, "name": "MemPalace", "category": "AI", "reason": "Best-benchmarked open-source AI memory system; Memory pattern at the storage layer", "status": "planned", "added": "2026-08-09"},
-    {"rank": 18, "name": "Hyperframes", "category": "AI", "reason": "Write HTML, render video — agent-native video pipeline by HeyGen", "status": "planned", "added": "2026-08-09"},
-    {"rank": 19, "name": "CareerOps", "category": "AI", "reason": "Open-source AI job search scoring listings with a structured A-F rubric — evaluation-as-filtering in hiring", "status": "planned", "added": "2026-08-09"},
-    {"rank": 20, "name": "Omniwork", "category": "AI", "reason": "Creative Agent OS; #1 Product of the Day on Product Hunt (Aug 9, 2026); always-on desktop agent producing finished work", "status": "planned", "added": "2026-08-12"},
-    {"rank": 21, "name": "Pickle", "category": "AI", "reason": "LLM-native agent browser with policy-gated actions; cuts token costs by rendering pages for models, not humans (Show HN, Aug 11 2026)", "status": "planned", "added": "2026-08-12"},
-    {"rank": 22, "name": "SpecKit", "category": "AI", "reason": "GitHub's spec-driven development toolkit; spec-first agentic coding (126K+ stars as of 2026-08-12)", "status": "planned", "added": "2026-08-12"},
-    {"rank": 23, "name": "Prodigy Research", "category": "FinTech", "reason": "YC S26 AI quant fund claiming 108% return in two months — verify claims before trusting", "status": "planned", "added": "2026-08-12"},
-    {"rank": 24, "name": "Needle2", "category": "AI", "reason": "14MB / 45M-param agentic edge LLM for phones, wearables and IoT (Cactus Compute, Aug 2026)", "status": "planned", "added": "2026-08-12"},
-    {"rank": 25, "name": "Sidekick", "category": "Enterprise", "reason": "YC S26 SMS-only AI agent for factory floors; lowest-friction industrial AI channel", "status": "planned", "added": "2026-08-12"},
-    {"rank": 26, "name": "Discovered Materials", "category": "Enterprise", "reason": "YC P26 AI agents discovering semiconductor materials + model benchmark; compresses lab-to-fab R&D (Launch HN, Aug 12 2026)", "status": "planned", "added": "2026-08-13"},
-    {"rank": 27, "name": "Worldmonitor", "category": "Enterprise", "reason": "Real-time global intelligence dashboard: AI news aggregation + Country Instability Index + cross-stream correlation; 81K+ stars (GitHub crawl, Aug 13 2026)", "status": "planned", "added": "2026-08-13"},
-    {"rank": 28, "name": "Headroom", "category": "AI", "reason": "Compresses tool outputs/logs/RAG chunks before they reach the LLM (~20% fewer tokens); context compression as cost engineering (66K+ stars, Aug 13 2026)", "status": "planned", "added": "2026-08-13"},
-    {"rank": 29, "name": "Cerenovus", "category": "FinTech", "reason": "YC S26 AI trained on Enron corpus claims to detect collapse signals years early; archival-corpus early-warning mechanism (launched Aug 12 2026)", "status": "planned", "added": "2026-08-14"},
-    {"rank": 30, "name": "Tenor", "category": "Enterprise", "reason": "YC S26 manager layer that turns employees into AI workers; org-level agent deployment control plane (launched Aug 12 2026)", "status": "planned", "added": "2026-08-14"},
-    {"rank": 31, "name": "hiloop", "category": "AI", "reason": "YC S26 compute layer for research agents: forkable, snapshot-able agent runs for reproducibility (Jul 2026)", "status": "planned", "added": "2026-08-14"},
-    {"rank": 32, "name": "OpenMontage", "category": "AI", "reason": "Open-source agentic video production system: 12 production pipelines, 100+ tools, 700+ nodes (47K+ stars, Aug 2026)", "status": "planned", "added": "2026-08-15"},
-    {"rank": 33, "name": "Bullet", "category": "AI", "reason": "YC S26 speed-first coding agent launched on HN (Aug 13 2026); velocity as the differentiator vs capability benchmarks", "status": "planned", "added": "2026-08-15"},
-    {"rank": 34, "name": "Flownie", "category": "Enterprise", "reason": "Open and visual data workflow platform with AI agent assistance (Show HN, Aug 14 2026); agent-native ETL", "status": "planned", "added": "2026-08-15"},
-    {"rank": 35, "name": "Mosaic Ocean", "category": "AI", "reason": "YC S26 shared memory for multiplayer AI agents; memory as a collaboration bus (Aug 2026)", "status": "planned", "added": "2026-08-15"},
-    {"rank": 36, "name": "OpenClaw", "category": "AI", "reason": "Open-source personal AI assistant, any OS/platform; local gateway + skill ecosystem, ~386K stars (GitHub Trending, Aug 16 2026)", "status": "planned", "added": "2026-08-16"},
-    {"rank": 37, "name": "Kimi Work", "category": "AI", "reason": "Moonshot AI local desktop agent on K2.6 with 300-sub-agent swarm; attaches raw agent sessions to feedback reports — agent-session transparency (Jun–Aug 2026)", "status": "planned", "added": "2026-08-16"},
-    {"rank": 38, "name": "ThoughtDAG", "category": "AI", "reason": "Editable context graph for LLM conversations (Show HN, Aug 15 2026, 111 pts); context as graph, not linear transcript", "status": "planned", "added": "2026-08-16"}
+    {
+      "rank": 1,
+      "name": "Cursor",
+      "category": "AI",
+      "reason": "Defined agentic coding; parallel agents + in-house model; fastest-ever SaaS scaling",
+      "status": "teardown-done",
+      "added": "2026-08-07"
+    },
+    {
+      "rank": 2,
+      "name": "ChatGPT",
+      "category": "AI",
+      "reason": "Brought LLMs to the mass market; memory + artifacts turned chat into a workspace",
+      "status": "teardown-done",
+      "added": "2026-08-07"
+    },
+    {
+      "rank": 3,
+      "name": "Claude",
+      "category": "AI",
+      "reason": "Long-context + agentic coding leadership; enterprise trust positioning",
+      "status": "teardown-done",
+      "added": "2026-08-07"
+    },
+    {
+      "rank": 4,
+      "name": "Perplexity",
+      "category": "AI",
+      "reason": "Citations-first answer engine; search category redefinition",
+      "status": "teardown-done",
+      "added": "2026-08-07"
+    },
+    {
+      "rank": 5,
+      "name": "Lovable",
+      "category": "AI",
+      "reason": "Vibe-coding to production app; no-code AI build loop",
+      "status": "teardown-done",
+      "added": "2026-08-07"
+    },
+    {
+      "rank": 6,
+      "name": "Replit",
+      "category": "AI",
+      "reason": "Browser-based dev environment + agent; autonomous build loop",
+      "status": "teardown-done",
+      "added": "2026-08-07"
+    },
+    {
+      "rank": 7,
+      "name": "Robinhood",
+      "category": "FinTech",
+      "reason": "Gamified, zero-friction consumer investing; behavioral product design",
+      "status": "teardown-done",
+      "added": "2026-08-07"
+    },
+    {
+      "rank": 8,
+      "name": "Stripe",
+      "category": "FinTech",
+      "reason": "Developer-first payments; modular financial infrastructure",
+      "status": "planned",
+      "added": "2026-08-07"
+    },
+    {
+      "rank": 9,
+      "name": "Notion",
+      "category": "SaaS",
+      "reason": "Blocks as universal substrate; template network effects",
+      "status": "planned",
+      "added": "2026-08-07"
+    },
+    {
+      "rank": 10,
+      "name": "Linear",
+      "category": "SaaS",
+      "reason": "Speed as product philosophy; keyboard-first power UX",
+      "status": "planned",
+      "added": "2026-08-07"
+    },
+    {
+      "rank": 11,
+      "name": "TikTok",
+      "category": "Consumer",
+      "reason": "Implicit-signal recommendation engine; the feed is the product",
+      "status": "planned",
+      "added": "2026-08-07"
+    },
+    {
+      "rank": 12,
+      "name": "Netflix",
+      "category": "Consumer",
+      "reason": "Catalog-to-attention machine; recommendation at industrial scale",
+      "status": "planned",
+      "added": "2026-08-07"
+    },
+    {
+      "rank": 13,
+      "name": "Spotify",
+      "category": "Consumer",
+      "reason": "Taste modeling + Wrapped; personalization made social",
+      "status": "planned",
+      "added": "2026-08-07"
+    },
+    {
+      "rank": 14,
+      "name": "Airbnb",
+      "category": "Consumer",
+      "reason": "Two-sided marketplace trust engineering",
+      "status": "planned",
+      "added": "2026-08-07"
+    },
+    {
+      "rank": 15,
+      "name": "Mercor",
+      "category": "AI",
+      "reason": "AI-proctored vetting + expert-judgment marketplace; $2B gross run rate and $20B valuation talks (2026)",
+      "status": "teardown-done",
+      "added": "2026-08-09"
+    },
+    {
+      "rank": 16,
+      "name": "MemPalace",
+      "category": "AI",
+      "reason": "Best-benchmarked open-source AI memory system; Memory pattern at the storage layer",
+      "status": "planned",
+      "added": "2026-08-09"
+    },
+    {
+      "rank": 17,
+      "name": "Hyperframes",
+      "category": "AI",
+      "reason": "Write HTML, render video — agent-native video pipeline by HeyGen",
+      "status": "planned",
+      "added": "2026-08-09"
+    },
+    {
+      "rank": 18,
+      "name": "CareerOps",
+      "category": "AI",
+      "reason": "Open-source AI job search scoring listings with a structured A-F rubric — evaluation-as-filtering in hiring",
+      "status": "planned",
+      "added": "2026-08-09"
+    },
+    {
+      "rank": 19,
+      "name": "Omniwork",
+      "category": "AI",
+      "reason": "Creative Agent OS; #1 Product of the Day on Product Hunt (Aug 9, 2026); always-on desktop agent producing finished work",
+      "status": "planned",
+      "added": "2026-08-12"
+    },
+    {
+      "rank": 20,
+      "name": "Pickle",
+      "category": "AI",
+      "reason": "LLM-native agent browser with policy-gated actions; cuts token costs by rendering pages for models, not humans (Show HN, Aug 11 2026)",
+      "status": "planned",
+      "added": "2026-08-12"
+    },
+    {
+      "rank": 21,
+      "name": "SpecKit",
+      "category": "AI",
+      "reason": "GitHub's spec-driven development toolkit; spec-first agentic coding (126K+ stars as of 2026-08-12)",
+      "status": "planned",
+      "added": "2026-08-12"
+    },
+    {
+      "rank": 22,
+      "name": "Prodigy Research",
+      "category": "FinTech",
+      "reason": "YC S26 AI quant fund claiming 108% return in two months — verify claims before trusting",
+      "status": "planned",
+      "added": "2026-08-12"
+    },
+    {
+      "rank": 23,
+      "name": "Needle2",
+      "category": "AI",
+      "reason": "14MB / 45M-param agentic edge LLM for phones, wearables and IoT (Cactus Compute, Aug 2026)",
+      "status": "planned",
+      "added": "2026-08-12"
+    },
+    {
+      "rank": 24,
+      "name": "Sidekick",
+      "category": "Enterprise",
+      "reason": "YC S26 SMS-only AI agent for factory floors; lowest-friction industrial AI channel",
+      "status": "planned",
+      "added": "2026-08-12"
+    },
+    {
+      "rank": 25,
+      "name": "Discovered Materials",
+      "category": "Enterprise",
+      "reason": "YC P26 AI agents discovering semiconductor materials + model benchmark; compresses lab-to-fab R&D (Launch HN, Aug 12 2026)",
+      "status": "planned",
+      "added": "2026-08-13"
+    },
+    {
+      "rank": 26,
+      "name": "Worldmonitor",
+      "category": "Enterprise",
+      "reason": "Real-time global intelligence dashboard: AI news aggregation + Country Instability Index + cross-stream correlation; 81K+ stars (GitHub crawl, Aug 13 2026)",
+      "status": "planned",
+      "added": "2026-08-13"
+    },
+    {
+      "rank": 27,
+      "name": "Headroom",
+      "category": "AI",
+      "reason": "Compresses tool outputs/logs/RAG chunks before they reach the LLM (~20% fewer tokens); context compression as cost engineering (66K+ stars, Aug 13 2026)",
+      "status": "planned",
+      "added": "2026-08-13"
+    },
+    {
+      "rank": 28,
+      "name": "Cerenovus",
+      "category": "FinTech",
+      "reason": "YC S26 AI trained on Enron corpus claims to detect collapse signals years early; archival-corpus early-warning mechanism (launched Aug 12 2026)",
+      "status": "planned",
+      "added": "2026-08-14"
+    },
+    {
+      "rank": 29,
+      "name": "Tenor",
+      "category": "Enterprise",
+      "reason": "YC S26 manager layer that turns employees into AI workers; org-level agent deployment control plane (launched Aug 12 2026)",
+      "status": "planned",
+      "added": "2026-08-14"
+    },
+    {
+      "rank": 30,
+      "name": "hiloop",
+      "category": "AI",
+      "reason": "YC S26 compute layer for research agents: forkable, snapshot-able agent runs for reproducibility (Jul 2026)",
+      "status": "planned",
+      "added": "2026-08-14"
+    },
+    {
+      "rank": 31,
+      "name": "OpenMontage",
+      "category": "AI",
+      "reason": "Open-source agentic video production system: 12 production pipelines, 100+ tools, 700+ nodes (47K+ stars, Aug 2026)",
+      "status": "planned",
+      "added": "2026-08-15"
+    },
+    {
+      "rank": 32,
+      "name": "Bullet",
+      "category": "AI",
+      "reason": "YC S26 speed-first coding agent launched on HN (Aug 13 2026); velocity as the differentiator vs capability benchmarks",
+      "status": "planned",
+      "added": "2026-08-15"
+    },
+    {
+      "rank": 33,
+      "name": "Flownie",
+      "category": "Enterprise",
+      "reason": "Open and visual data workflow platform with AI agent assistance (Show HN, Aug 14 2026); agent-native ETL",
+      "status": "planned",
+      "added": "2026-08-15"
+    },
+    {
+      "rank": 34,
+      "name": "Mosaic Ocean",
+      "category": "AI",
+      "reason": "YC S26 shared memory for multiplayer AI agents; memory as a collaboration bus (Aug 2026)",
+      "status": "planned",
+      "added": "2026-08-15"
+    },
+    {
+      "rank": 35,
+      "name": "OpenClaw",
+      "category": "AI",
+      "reason": "Open-source personal AI assistant, any OS/platform; local gateway + skill ecosystem, ~386K stars (GitHub Trending, Aug 16 2026)",
+      "status": "planned",
+      "added": "2026-08-16"
+    },
+    {
+      "rank": 36,
+      "name": "Kimi Work",
+      "category": "AI",
+      "reason": "Moonshot AI local desktop agent on K2.6 with 300-sub-agent swarm; attaches raw agent sessions to feedback reports — agent-session transparency (Jun–Aug 2026)",
+      "status": "planned",
+      "added": "2026-08-16"
+    },
+    {
+      "rank": 37,
+      "name": "ThoughtDAG",
+      "category": "AI",
+      "reason": "Editable context graph for LLM conversations (Show HN, Aug 15 2026, 111 pts); context as graph, not linear transcript",
+      "status": "planned",
+      "added": "2026-08-16"
+    },
+    {
+      "name": "OpenRouter",
+      "category": "AI",
+      "reason": "AI gateway aggregating 300+ models under one API; Stripe reportedly acquiring for $7B+ (TechCrunch/Bloomberg, 2026-08-16)",
+      "status": "planned",
+      "added": "2026-08-17",
+      "rank": 38
+    },
+    {
+      "name": "Hermes Agent",
+      "category": "AI",
+      "reason": "NousResearch open-source personal agent 'that grows with you'; ~231K stars, GitHub Trending 2026-08-17",
+      "status": "planned",
+      "added": "2026-08-17",
+      "rank": 39
+    },
+    {
+      "name": "Goose",
+      "category": "AI",
+      "reason": "Open-source extensible AI agent by Block (aaif-goose/goose); ~53K stars, install/execute beyond code suggestions, Aug 2026",
+      "status": "planned",
+      "added": "2026-08-17",
+      "rank": 40
+    },
+    {
+      "name": "Legbar",
+      "category": "AI",
+      "reason": "Live AI agent sessions beside GitHub CI in one terminal (Show HN 2026-08-17); session-as-artifact trend",
+      "status": "planned",
+      "added": "2026-08-17",
+      "rank": 41
+    }
   ]
 }

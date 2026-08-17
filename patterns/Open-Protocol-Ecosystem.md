@@ -4,7 +4,7 @@ type: pattern
 name: Open Protocol Ecosystem
 status: emerging
 tags: [ai, standards, ecosystem, mcp, developer-platform, network-effects]
-last_updated: 2026-08-14
+last_updated: 2026-08-17
 ---
 
 # Open Protocol Ecosystem
@@ -40,6 +40,7 @@ Closed integration formats fragment the market: every vendor ships its own conne
 - **Anthropic — Model Context Protocol (MCP):** open-sourced Nov 25, 2024 as the standard for connecting AI models to tools/data/apps. Adoption compounded through 2025–2026: OpenAI, Google, and Microsoft co-sponsored its Dec 2025 donation to the Linux Foundation's Agentic AI Foundation; monthly SDK downloads passed ~400M (Jul 2026, ~4x during 2026; ~97M/month by H1 2026 per SERP API) with ~9,400–17,000+ public servers; the Jul 28, 2026 spec (stateless core) was announced "coming to Claude" — the reference client keeps defining the standard's direction while the ecosystem standardizes on it.
 - **Microsoft — Language Server Protocol (LSP, 2016):** open-sourced the protocol that lets any editor talk to any language tooling server; adopted by VS Code, Vim, Emacs, JetBrains, Eclipse and more. Microsoft's editor (VS Code) became the default surface partly because the open standard made language support portable — the protocol was free, the editor ecosystem was the business.
 - **Windsurf/Devin Desktop (2025–2026)** — the IDE ships a full MCP client (stdio, Streamable HTTP, legacy SSE), a public MCP Marketplace, org-level custom registries and whitelists, OAuth auto-trigger for HTTP/SSE servers (Feb 2026), and a 100-tool runtime ceiling for governance (as of Apr 2026, windsurf-unlocked). The instance that shows the *consumerization* of the standard: MCP went from developer setup friction to one-click marketplace installs, with the editor itself as the anchor tenant (as of Jun 2026, Devin docs).
+- **OpenClaw / OpenClaw Foundation (2025–2026)** — the local-first personal assistant makes its Gateway an open control plane: messaging channel adapters (WhatsApp, Telegram, Slack, Discord, Signal, iMessage, Feishu, LINE), a tools/skills/plugins runtime, and the ClawHub skill registry where anyone publishes versioned skills — the protocol is free (MIT-badged), the ecosystem (386K GitHub stars, 20K+ skills) is the moat, and governance moved to a non-profit foundation in Feb 2026 (as of Aug 2026, GitHub; [OpenClaw teardown](../products/AI/OpenClaw.md)). The instance that shows an *agent OS* built entirely on the open-ecosystem move: no proprietary UI lock-in — the surfaces are the user's existing chat apps.
 
 ## Engineering
 

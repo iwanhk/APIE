@@ -11,3 +11,4 @@ Worked outputs of APIE skills — proof the engine runs.
 | Hyperframes × Sidekick — 20 innovations | Innovation Challenge | [Innovation-Challenge-Hyperframes-x-Sidekick.md](Innovation-Challenge-Hyperframes-x-Sidekick.md) |
 | ChatGPT × Robinhood — 20 innovations | Innovation Challenge | [Innovation-Challenge-ChatGPT-x-Robinhood.md](Innovation-Challenge-ChatGPT-x-Robinhood.md) |
 | Windsurf × Notion — 20 innovations | Innovation Challenge | [Innovation-Challenge-Windsurf-x-Notion.md](Innovation-Challenge-Windsurf-x-Notion.md) |
+| TikTok × Claude — 20 innovations | Innovation Challenge | [Innovation-Challenge-TikTok-x-Claude.md](Innovation-Challenge-TikTok-x-Claude.md) |

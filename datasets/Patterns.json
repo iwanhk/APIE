@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Pattern-Schema-v1",
-  "generated_at": "2026-08-16T01:10:24Z",
-  "count": 15,
+  "generated_at": "2026-08-17T02:38:01Z",
+  "count": 16,
   "items": [
     {
       "id": "ai-proctored-vetting",
@@ -19,6 +19,24 @@
       "last_updated": "2026-08-09",
       "file": "patterns/AI-Proctored-Vetting.md",
       "title": "AI-Proctored Vetting"
+    },
+    {
+      "id": "agent-skill-marketplace",
+      "type": "pattern",
+      "name": "Agent Skill Marketplace",
+      "status": "emerging",
+      "tags": [
+        "ai",
+        "agents",
+        "marketplace",
+        "ecosystem",
+        "distribution",
+        "skills",
+        "registry"
+      ],
+      "last_updated": "2026-08-17",
+      "file": "patterns/Agent-Skill-Marketplace.md",
+      "title": "Agent Skill Marketplace"
     },
     {
       "id": "ambient-activity-memory",
@@ -164,7 +182,7 @@
         "developer-platform",
         "network-effects"
       ],
-      "last_updated": "2026-08-14",
+      "last_updated": "2026-08-17",
       "file": "patterns/Open-Protocol-Ecosystem.md",
       "title": "Open Protocol Ecosystem"
     },

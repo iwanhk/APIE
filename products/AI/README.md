@@ -14,9 +14,10 @@ AI-native products and developer tools.
 | Claude | Anthropic | [Claude.md](Claude.md) |
 | ChatGPT | OpenAI | [ChatGPT.md](ChatGPT.md) |
 | Windsurf | Cognition AI | [Windsurf.md](Windsurf.md) |
+| OpenClaw | OpenClaw Foundation | [OpenClaw.md](OpenClaw.md) |
 
 ## Watchlist
 
-Claude (Anthropic) · Gamma · Granola · Harvey · OpenClaw · Kimi Work · Midjourney · Suno
+Claude (Anthropic) · Gamma · Granola · Harvey · Kimi Work · Midjourney · Suno
 
-Daily reverse-engineering queue: Day 008 — Windsurf (done 2026-08-16), **Day 009 — TBD**.
+Daily reverse-engineering queue: Day 009 — OpenClaw (done 2026-08-17), **Day 010 — TBD**.

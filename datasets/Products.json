@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Product-Schema-v1",
-  "generated_at": "2026-08-16T01:10:24Z",
-  "count": 9,
+  "generated_at": "2026-08-17T02:38:01Z",
+  "count": 10,
   "items": [
     {
       "id": "chatgpt",
@@ -203,6 +203,40 @@
       ],
       "file": "products/AI/Mercor.md",
       "title": "Mercor"
+    },
+    {
+      "id": "openclaw",
+      "type": "product",
+      "name": "OpenClaw",
+      "category": "AI",
+      "company": "OpenClaw Foundation",
+      "founded": "2025",
+      "status": "active",
+      "tags": [
+        "personal-ai-assistant",
+        "agent-gateway",
+        "local-first",
+        "open-source",
+        "skills-ecosystem"
+      ],
+      "last_updated": "2026-08-17",
+      "sources": [
+        "https://github.com/openclaw/openclaw",
+        "https://openclaw.ai",
+        "https://docs.openclaw.ai",
+        "https://clawhub.ai",
+        "https://www.bloomberg.com/news/articles/2026-02-15/openai-hires-openclaw-ai-agent-developer-peter-steinberg",
+        "https://indianexpress.com/article/technology/tech-news-technology/openclaw-founder-steinberger-joins-openai-open-source-bot-becomes-foundation-10534470/",
+        "https://m.thepaper.cn/newsDetail_forward_32622443",
+        "https://www.donews.com/news/detail/1/6432573.html",
+        "https://korben.info/en/openclaw-personal-ai-assistant-mac.html",
+        "https://zhuanlan.zhihu.com/p/2011890464383604275",
+        "https://landscape.jimmysong.io/projects/openclaw/",
+        "https://m.jiemian.com/article/14089107.html",
+        "https://deepwiki.com/hustcc/nano-claw/3.2-provider-configuration"
+      ],
+      "file": "products/AI/OpenClaw.md",
+      "title": "OpenClaw"
     },
     {
       "id": "perplexity",
