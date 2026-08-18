@@ -1,8 +1,8 @@
 {
   "schema": "APIE-Top100-Watchlist-v0",
-  "generated_at": "2026-08-17",
-  "count": 41,
-  "notes": "Curated watchlist. Products graduate to a full teardown in products/ when a teardown is published.",
+  "generated_at": "2026-08-18",
+  "count": 43,
+  "notes": "Curated watchlist. Products graduate to a full teardown in products/ when a teardown is published. Day 010 Kimi Work teardown 2026-08-18.",
   "items": [
     {
       "rank": 1,
@@ -288,8 +288,8 @@
       "rank": 36,
       "name": "Kimi Work",
       "category": "AI",
-      "reason": "Moonshot AI local desktop agent on K2.6 with 300-sub-agent swarm; attaches raw agent sessions to feedback reports — agent-session transparency (Jun–Aug 2026)",
-      "status": "planned",
+      "reason": "Day 010 teardown 2026-08-18: Moonshot local desktop agent, 300-agent swarm, cron 24/7, session-as-artifact (feedback attachment); K2.6/K3",
+      "status": "teardown-done",
       "added": "2026-08-16"
     },
     {
@@ -331,6 +331,22 @@
       "status": "planned",
       "added": "2026-08-17",
       "rank": 41
+    },
+    {
+      "rank": 42,
+      "name": "Speko",
+      "category": "AI",
+      "reason": "YC S26 \"OpenRouter for Voice AI\": benchmark-driven routing across 15+ STT/TTS providers, one API, MIT gateway + paid hosted router; Launch HN 2026-08-17 (90 pts)",
+      "status": "planned",
+      "added": "2026-08-18"
+    },
+    {
+      "rank": 43,
+      "name": "Xaidr",
+      "category": "AI",
+      "reason": "In-process runtime security & governance for AI agents, zero-dependency, Apache-2.0 (delphisecurity/xaidr, 23 stars); agent-governance signal from HN 2026-08-17",
+      "status": "planned",
+      "added": "2026-08-18"
     }
   ]
 }

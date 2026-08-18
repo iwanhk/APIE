@@ -66,9 +66,9 @@ Product-level architecture (README/docs, as of 2026-08): a **local-first Gateway
 
 ## Patterns
 
-- [Open Protocol Ecosystem](../patterns/Open-Protocol-Ecosystem.md) — the Gateway + channel adapters + installable skill packs are the same "open protocol, one control plane" move as MCP; OpenClaw is a full product instance of it.
-- [Agent Skill Marketplace](../patterns/Agent-Skill-Marketplace.md) — ClawHub is an app-store/npm-style registry of installable agent skills (semver, search, install, update), the pattern this teardown files.
-- [Curation](../patterns/Curation.md) — a registry that grew from <3K to ~14K skills in a month needs curation/moderation (ClawHub moderation tooling exists); curation becomes the quality gate of the marketplace.
+- [Open Protocol Ecosystem](../../patterns/Open-Protocol-Ecosystem.md) — the Gateway + channel adapters + installable skill packs are the same "open protocol, one control plane" move as MCP; OpenClaw is a full product instance of it.
+- [Agent Skill Marketplace](../../patterns/Agent-Skill-Marketplace.md) — ClawHub is an app-store/npm-style registry of installable agent skills (semver, search, install, update), the pattern this teardown files.
+- [Curation](../../patterns/Curation.md) — a registry that grew from <3K to ~14K skills in a month needs curation/moderation (ClawHub moderation tooling exists); curation becomes the quality gate of the marketplace.
 - Emerging candidate (watching brief): **Session-as-Artifact** — sharing the raw agent session as a reviewable artifact, seen in Kimi Work's raw-session feedback reports (HN, 2026-08-16), Legbar's live agent sessions beside CI (Show HN, 2026-08-17) and Remarc's structured agent feedback (Show HN, 2026-08-17). Needs one more instance before filing.
 
 ## Lessons
@@ -79,7 +79,7 @@ Avoid: treating inbound messages as trusted input — OpenClaw's own docs mandat
 
 ## Innovation
 
-OpenClaw industrialized the **personal agent OS**: local Gateway control plane + channel adapters + skill marketplace, with model/tool/data ownership staying with the operator. It also pioneered a governance template for viral open-source agents (founder → company → non-profit foundation funded by a strategic sponsor). Natural next transfers: enterprise desktop agents (device-local actions with IT policy layers), regulated operations where skills become jurisdiction-specific compliance packs (see [Agent Skill Marketplace → Regulatory Compliance Packs](../cross-domain/Agent-Skill-Marketplace-to-Regulatory-Compliance-Packs.md)), and healthcare/caregiving personal assistants where local-first data handling is a feature, not a constraint.
+OpenClaw industrialized the **personal agent OS**: local Gateway control plane + channel adapters + skill marketplace, with model/tool/data ownership staying with the operator. It also pioneered a governance template for viral open-source agents (founder → company → non-profit foundation funded by a strategic sponsor). Natural next transfers: enterprise desktop agents (device-local actions with IT policy layers), regulated operations where skills become jurisdiction-specific compliance packs (see [Agent Skill Marketplace → Regulatory Compliance Packs](../../cross-domain/Agent-Skill-Marketplace-to-Regulatory-Compliance-Packs.md)), and healthcare/caregiving personal assistants where local-first data handling is a feature, not a constraint.
 
 ## Sources
 

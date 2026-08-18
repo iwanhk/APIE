@@ -22,6 +22,7 @@ The pattern library is the core of APIE. Each pattern is a repeatable mechanism 
 | Ambient Activity Memory | Emerging | [patterns/Ambient-Activity-Memory.md](patterns/Ambient-Activity-Memory.md) | Compliance audit trails (event-stream memory) |
 | Context-Economy Engineering | Emerging | [patterns/Context-Economy-Engineering.md](patterns/Context-Economy-Engineering.md) | Mobile markets (data/battery-budget design) |
 | Agent Skill Marketplace | Emerging | [patterns/Agent-Skill-Marketplace.md](patterns/Agent-Skill-Marketplace.md) | Regulatory compliance packs (installable rulebooks) |
+| Session-as-Artifact | Emerging | [patterns/Session-as-Artifact.md](patterns/Session-as-Artifact.md) | Investment decision audits (replayable evidence packs) |
 
 ## Pattern Areas (backlog)
 

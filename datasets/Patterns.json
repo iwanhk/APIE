@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Pattern-Schema-v1",
-  "generated_at": "2026-08-17T02:38:01Z",
-  "count": 16,
+  "generated_at": "2026-08-18T01:06:15Z",
+  "count": 17,
   "items": [
     {
       "id": "ai-proctored-vetting",
@@ -216,6 +216,24 @@
       "last_updated": "2026-08-07",
       "file": "patterns/Recommendation.md",
       "title": "Recommendation Engine"
+    },
+    {
+      "id": "session-as-artifact",
+      "type": "pattern",
+      "name": "Session-as-Artifact",
+      "status": "emerging",
+      "tags": [
+        "ai",
+        "agents",
+        "observability",
+        "evidence",
+        "feedback",
+        "debugging",
+        "audit"
+      ],
+      "last_updated": "2026-08-18",
+      "file": "patterns/Session-as-Artifact.md",
+      "title": "Session-as-Artifact"
     },
     {
       "id": "spec-driven-development",

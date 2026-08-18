@@ -15,9 +15,10 @@ AI-native products and developer tools.
 | ChatGPT | OpenAI | [ChatGPT.md](ChatGPT.md) |
 | Windsurf | Cognition AI | [Windsurf.md](Windsurf.md) |
 | OpenClaw | OpenClaw Foundation | [OpenClaw.md](OpenClaw.md) |
+| Kimi Work | Moonshot AI | [Kimi-Work.md](Kimi-Work.md) |
 
 ## Watchlist
 
-Claude (Anthropic) · Gamma · Granola · Harvey · Kimi Work · Midjourney · Suno
+Claude (Anthropic) · Gamma · Granola · Harvey · Speko · Midjourney · Suno
 
-Daily reverse-engineering queue: Day 009 — OpenClaw (done 2026-08-17), **Day 010 — TBD**.
+Daily reverse-engineering queue: Day 010 — Kimi Work (done 2026-08-18), **Day 011 — TBD (candidates: Gamma / Granola / Harvey / Speko)**.

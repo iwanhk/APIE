@@ -11,7 +11,7 @@
 
 ### 2. 每日拆解（Day N）
 
-队列（当前）：**Day 009 — OpenClaw**（已于 2026-08-17 完成），Day 010 — TBD（候选: Gamma / Granola / Harvey / Kimi Work；Day 008 Windsurf 已于 2026-08-16 完成）
+队列（当前）：**Day 010 — Kimi Work**（已于 2026-08-18 完成；Day 009 OpenClaw 2026-08-17、Day 008 Windsurf 2026-08-16），Day 011 — TBD（候选: Gamma / Granola / Harvey / Speko）
 
 流程：`products/_TEMPLATE.md` → 按 [Product Schema](APIE-Product-Schema-v1.md) 填 → 事实带来源和 as-of 日期 → 至少链接一个 pattern → 更新 `PRODUCTS.md` 与分类 README。
 

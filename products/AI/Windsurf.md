@@ -59,7 +59,7 @@ Windsurf is the AI-first IDE (originally Codeium) whose Cascade agent — a deep
 
 ## Business
 
-- **Model:** freemium subscription on credit-metered agent work. Free = 25 credits; Pro = $15/mo for 500 credits; Teams/Enterprise seats add governance (as of 2026-02-28, Morph; 2026-07-21, Ship or Skip). Credits meter agent actions and premium model usage — an [Effort-Based Pricing](../patterns/Effort-Based-Pricing.md) instance where the meter is the agent task, not the seat.
+- **Model:** freemium subscription on credit-metered agent work. Free = 25 credits; Pro = $15/mo for 500 credits; Teams/Enterprise seats add governance (as of 2026-02-28, Morph; 2026-07-21, Ship or Skip). Credits meter agent actions and premium model usage — an [Effort-Based Pricing](../../patterns/Effort-Based-Pricing.md) instance where the meter is the agent task, not the seat.
 - **Revenue trajectory:** Cognition's annualized revenue grew from **$73M (June 2025)** to **$492M (May 2026)** to **>$500M (July 2026)** after the Windsurf acquisition; ARR grew >30% in seven weeks post-acquisition; enterprise usage >10x in 2026; headcount 44 → ~350 (as of 2026-05-27 MIT Sloan India; 2026-07-14 KuCoin/The Block Beats; c114.net.cn May 2026).
 - **Distribution:** product-led growth (free IDE + completion), plus the Cognition channel: Devin enterprise contracts and platform sales now carry Windsurf/Devin Desktop. Post-renaming (June 2026), brand equity consolidates into one Devin product family.
 - **Unit economics note:** in-house models (SWE-1/1.5) lower marginal inference cost vs renting frontier models — a structural margin advantage over IDE rivals, though model quality/evals remain the binding constraint.
@@ -98,11 +98,11 @@ Windsurf is the AI-first IDE (originally Codeium) whose Cascade agent — a deep
 
 ## Patterns
 
-- [Ambient Activity Memory](../patterns/Ambient-Activity-Memory.md) — Cascade Memories: passively observed codebase behavior distilled into durable context between sessions.
-- [Open Protocol Ecosystem](../patterns/Open-Protocol-Ecosystem.md) — MCP client with Marketplace, registries, and a 100-tool governance ceiling.
-- [Effort-Based Pricing](../patterns/Effort-Based-Pricing.md) — credit-metered agent work on top of free completion.
-- [Parallel Agent Orchestration](../patterns/Parallel-Agent-Orchestration.md) — local Cascade + cloud Devin split with one-click handoff.
-- **Emerging (this teardown):** [Context-Economy Engineering](../patterns/Context-Economy-Engineering.md) — deep context indexing, Memories distillation, and tool ceilings all exist to make each token do more work.
+- [Ambient Activity Memory](../../patterns/Ambient-Activity-Memory.md) — Cascade Memories: passively observed codebase behavior distilled into durable context between sessions.
+- [Open Protocol Ecosystem](../../patterns/Open-Protocol-Ecosystem.md) — MCP client with Marketplace, registries, and a 100-tool governance ceiling.
+- [Effort-Based Pricing](../../patterns/Effort-Based-Pricing.md) — credit-metered agent work on top of free completion.
+- [Parallel Agent Orchestration](../../patterns/Parallel-Agent-Orchestration.md) — local Cascade + cloud Devin split with one-click handoff.
+- **Emerging (this teardown):** [Context-Economy Engineering](../../patterns/Context-Economy-Engineering.md) — deep context indexing, Memories distillation, and tool ceilings all exist to make each token do more work.
 
 ## Lessons
 
@@ -114,7 +114,7 @@ Windsurf is the AI-first IDE (originally Codeium) whose Cascade agent — a deep
 
 ## Innovation
 
-Windsurf industrialized **agent-in-editor context awareness**: an IDE whose central artifact is a continuously-updated model of what the developer is doing, backed by memories that persist across sessions and workflows that live in the repo. It invented the local→cloud agent handoff as a product pattern and demonstrated that an acquired IDE can become the wedge for an autonomous-coding platform (Devin) rather than an also-ran. Where the pattern transfers next: any tool where "the assistant should know what I'm doing" beats "the assistant should answer my prompts" — design tools (Figma), spreadsheet/analysis surfaces, legal document workspaces, and ops consoles; the [Context-Economy Engineering → Mobile Markets](../cross-domain/Context-Economy-Engineering-to-Mobile-Markets.md) transfer is a concrete candidate.
+Windsurf industrialized **agent-in-editor context awareness**: an IDE whose central artifact is a continuously-updated model of what the developer is doing, backed by memories that persist across sessions and workflows that live in the repo. It invented the local→cloud agent handoff as a product pattern and demonstrated that an acquired IDE can become the wedge for an autonomous-coding platform (Devin) rather than an also-ran. Where the pattern transfers next: any tool where "the assistant should know what I'm doing" beats "the assistant should answer my prompts" — design tools (Figma), spreadsheet/analysis surfaces, legal document workspaces, and ops consoles; the [Context-Economy Engineering → Mobile Markets](../../cross-domain/Context-Economy-Engineering-to-Mobile-Markets.md) transfer is a concrete candidate.
 
 ## Sources
 

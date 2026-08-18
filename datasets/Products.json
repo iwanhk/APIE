@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Product-Schema-v1",
-  "generated_at": "2026-08-17T02:38:01Z",
-  "count": 10,
+  "generated_at": "2026-08-18T01:06:15Z",
+  "count": 11,
   "items": [
     {
       "id": "chatgpt",
@@ -145,6 +145,40 @@
       ],
       "file": "products/AI/Cursor.md",
       "title": "Cursor"
+    },
+    {
+      "id": "kimi-work",
+      "type": "product",
+      "name": "Kimi Work",
+      "category": "AI",
+      "company": "Moonshot AI (月之暗面)",
+      "founded": "2026",
+      "status": "active",
+      "tags": [
+        "local-agent",
+        "desktop-agent",
+        "agent-swarm",
+        "knowledge-work",
+        "scheduled-tasks",
+        "session-artifacts"
+      ],
+      "last_updated": "2026-08-18",
+      "sources": [
+        "https://m.ithome.com/html/959547.htm",
+        "https://www.moneycontrol.com/news/trends/moonshot-ai-launches-kimi-work-a-desktop-ai-that-can-run-300-agents-at-once-13945970.html",
+        "https://www.kucoin.com/news/flash/moonshot-ai-launches-desktop-agent-product-kimi-work-with-local-execution-and-300-sub-agents",
+        "https://tech.yahoo.com/ai/meta-ai/articles/moonshot-ais-kimi-brings-300-184057169.html",
+        "https://www.gateweb3.net/zh/news/detail/moonshot-ai-announces-kimi-work-desktop-agent-with-swarm-architecture-21734719",
+        "https://runtimewire.com/article/scoop-kimi-work-secretly-attaches-raw-records-from-five-recent-agent-sessions-to",
+        "https://hn.algolia.com/api/v1/items/49313711",
+        "http://app.myzaker.com/news/article.php?pk=6a6ffcf68e9f09263236f6e1&f=weixin_mp",
+        "https://www.kchuhai.com/report/view-67260.html",
+        "https://www.yun88.com/news/11611.html",
+        "https://theaitoolsbox.com/blog/kimi-k3-moonshot-open-weight-model-sold-out/",
+        "https://www.usecarly.com/blog/what-is-kimi-work/"
+      ],
+      "file": "products/AI/Kimi-Work.md",
+      "title": "Kimi Work"
     },
     {
       "id": "lovable",

@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Cross-Domain-Schema-v1",
-  "generated_at": "2026-08-17T02:38:01Z",
-  "count": 10,
+  "generated_at": "2026-08-18T01:06:15Z",
+  "count": 11,
   "items": [
     {
       "id": "ai-proctored-vetting-to-investment-advisory",
@@ -122,6 +122,18 @@
       "last_updated": "2026-08-13",
       "file": "cross-domain/Parallel-Agent-Orchestration-to-Investment-Research.md",
       "title": "Parallel Agent Orchestration → Investment Research"
+    },
+    {
+      "id": "session-as-artifact-to-investment-decision-audits",
+      "type": "cross-domain",
+      "name": "Session-as-Artifact → Investment Decision Audits",
+      "source_domain": "AI Developer Tools / Agent Platforms",
+      "target_domain": "Regulated Investment Management & Advisory",
+      "source_pattern": "patterns/Session-as-Artifact.md",
+      "status": "hypothesis",
+      "last_updated": "2026-08-18",
+      "file": "cross-domain/Session-as-Artifact-to-Investment-Decision-Audits.md",
+      "title": "Session-as-Artifact → Investment Decision Audits"
     }
   ]
 }
