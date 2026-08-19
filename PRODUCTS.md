@@ -16,11 +16,12 @@ Every product teardown follows [APIE Product Schema v1](docs/APIE-Product-Schema
 | Windsurf | Cognition AI | AI / Developer Tools | [products/AI/Windsurf.md](products/AI/Windsurf.md) | 2026-08-16 |
 | OpenClaw | OpenClaw Foundation | AI / Personal Assistant | [products/AI/OpenClaw.md](products/AI/OpenClaw.md) | 2026-08-17 |
 | Kimi Work | Moonshot AI | AI / Desktop Working Agent | [products/AI/Kimi-Work.md](products/AI/Kimi-Work.md) | 2026-08-18 |
+| Speko | Speko (YC S26) | AI / Voice Infrastructure | [products/AI/Speko.md](products/AI/Speko.md) | 2026-08-19 |
 | Robinhood | Robinhood Markets | FinTech / Retail Brokerage | [products/FinTech/Robinhood.md](products/FinTech/Robinhood.md) | 2026-08-07 |
 
 ## Watchlist (to be torn down)
 
-**AI:** Gamma, Granola, Harvey, Speko
+**AI:** Gamma, Granola, Harvey, claude-mem, gemini-cli, caveman
 
 **FinTech:** Coinbase, Carta, Stripe, Plaid, Mercury, Wise
 

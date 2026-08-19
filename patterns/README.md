@@ -19,6 +19,11 @@ The core of APIE. A pattern is a **repeatable mechanism** — a solution structu
 | Open Protocol Ecosystem | emerging | [Open-Protocol-Ecosystem.md](Open-Protocol-Ecosystem.md) | MCP (Anthropic), LSP (Microsoft), Windsurf MCP client |
 | Ambient Activity Memory | emerging | [Ambient-Activity-Memory.md](Ambient-Activity-Memory.md) | OpenAI Computer History, Microsoft Recall, Rewind, Astra, Windsurf Cascade Memories |
 | Context-Economy Engineering | emerging | [Context-Economy-Engineering.md](Context-Economy-Engineering.md) | Windsurf Cascade, Headroom, caveman, omo/lazycodex |
+| Effort-Based Pricing | emerging | [Effort-Based-Pricing.md](Effort-Based-Pricing.md) | Replit, Kimi Work, OpenAI o-series |
+| Parallel Agent Orchestration | emerging | [Parallel-Agent-Orchestration.md](Parallel-Agent-Orchestration.md) | Replit, Kimi Work (300-agent swarm), Cursor |
+| Agent Skill Marketplace | emerging | [Agent-Skill-Marketplace.md](Agent-Skill-Marketplace.md) | OpenClaw ClawHub, Claude skills, Kimi skills |
+| Session-as-Artifact | emerging | [Session-as-Artifact.md](Session-as-Artifact.md) | Kimi Work, Legbar, Remarc |
+| Benchmark-Driven-Routing | emerging | [Benchmark-Driven-Routing.md](Benchmark-Driven-Routing.md) | Speko, OpenRouter, Martian/Portkey |
 
 ## Pattern Areas (backlog)
 

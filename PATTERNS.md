@@ -23,6 +23,7 @@ The pattern library is the core of APIE. Each pattern is a repeatable mechanism 
 | Context-Economy Engineering | Emerging | [patterns/Context-Economy-Engineering.md](patterns/Context-Economy-Engineering.md) | Mobile markets (data/battery-budget design) |
 | Agent Skill Marketplace | Emerging | [patterns/Agent-Skill-Marketplace.md](patterns/Agent-Skill-Marketplace.md) | Regulatory compliance packs (installable rulebooks) |
 | Session-as-Artifact | Emerging | [patterns/Session-as-Artifact.md](patterns/Session-as-Artifact.md) | Investment decision audits (replayable evidence packs) |
+| Benchmark-Driven-Routing | Emerging | [patterns/Benchmark-Driven-Routing.md](patterns/Benchmark-Driven-Routing.md) | Investment research (continuously re-benchmarked fund routing) |
 
 ## Pattern Areas (backlog)
 

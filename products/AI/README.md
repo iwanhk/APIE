@@ -16,9 +16,10 @@ AI-native products and developer tools.
 | Windsurf | Cognition AI | [Windsurf.md](Windsurf.md) |
 | OpenClaw | OpenClaw Foundation | [OpenClaw.md](OpenClaw.md) |
 | Kimi Work | Moonshot AI | [Kimi-Work.md](Kimi-Work.md) |
+| Speko | Speko (YC S26) | [Speko.md](Speko.md) |
 
 ## Watchlist
 
-Claude (Anthropic) · Gamma · Granola · Harvey · Speko · Midjourney · Suno
+Claude (Anthropic) · Gamma · Granola · Harvey · claude-mem · gemini-cli · caveman · Midjourney · Suno
 
-Daily reverse-engineering queue: Day 010 — Kimi Work (done 2026-08-18), **Day 011 — TBD (candidates: Gamma / Granola / Harvey / Speko)**.
+Daily reverse-engineering queue: Day 011 — Speko (done 2026-08-19), **Day 012 — TBD (candidates: Gamma / Granola / Harvey)**.

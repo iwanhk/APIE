@@ -4,7 +4,7 @@ type: pattern
 name: Open Protocol Ecosystem
 status: emerging
 tags: [ai, standards, ecosystem, mcp, developer-platform, network-effects]
-last_updated: 2026-08-17
+last_updated: 2026-08-19
 ---
 
 # Open Protocol Ecosystem
@@ -41,6 +41,7 @@ Closed integration formats fragment the market: every vendor ships its own conne
 - **Microsoft — Language Server Protocol (LSP, 2016):** open-sourced the protocol that lets any editor talk to any language tooling server; adopted by VS Code, Vim, Emacs, JetBrains, Eclipse and more. Microsoft's editor (VS Code) became the default surface partly because the open standard made language support portable — the protocol was free, the editor ecosystem was the business.
 - **Windsurf/Devin Desktop (2025–2026)** — the IDE ships a full MCP client (stdio, Streamable HTTP, legacy SSE), a public MCP Marketplace, org-level custom registries and whitelists, OAuth auto-trigger for HTTP/SSE servers (Feb 2026), and a 100-tool runtime ceiling for governance (as of Apr 2026, windsurf-unlocked). The instance that shows the *consumerization* of the standard: MCP went from developer setup friction to one-click marketplace installs, with the editor itself as the anchor tenant (as of Jun 2026, Devin docs).
 - **OpenClaw / OpenClaw Foundation (2025–2026)** — the local-first personal assistant makes its Gateway an open control plane: messaging channel adapters (WhatsApp, Telegram, Slack, Discord, Signal, iMessage, Feishu, LINE), a tools/skills/plugins runtime, and the ClawHub skill registry where anyone publishes versioned skills — the protocol is free (MIT-badged), the ecosystem (386K GitHub stars, 20K+ skills) is the moat, and governance moved to a non-profit foundation in Feb 2026 (as of Aug 2026, GitHub; [OpenClaw teardown](../products/AI/OpenClaw.md)). The instance that shows an *agent OS* built entirely on the open-ecosystem move: no proprietary UI lock-in — the surfaces are the user's existing chat apps.
+- **Speko (2026-08)** — the "open client, closed control plane" variant. The MIT-licensed Gateway (a Go sidecar speaking a local Unix-socket protocol) plus an OpenAI-compatible API surface remove integration friction — existing LiveKit/OpenAI voice agents switch with a base-URL change — and BYOK mode lets traffic bypass Speko's cloud entirely, so the open consumer runtime is the trust layer for the hosted router where revenue actually accrues (benchmarks, routing, billing). The protocol the customer touches is open; the control plane is the business ([Launch HN](https://news.ycombinator.com/item?id=49332751), 2026-08-17; [gateway](https://github.com/SpekoAI/gateway), as of 2026-08-19).
 
 ## Engineering
 

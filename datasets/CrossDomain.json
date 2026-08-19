@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Cross-Domain-Schema-v1",
-  "generated_at": "2026-08-18T01:06:15Z",
-  "count": 11,
+  "generated_at": "2026-08-19T02:08:49Z",
+  "count": 12,
   "items": [
     {
       "id": "ai-proctored-vetting-to-investment-advisory",
@@ -38,6 +38,18 @@
       "last_updated": "2026-08-15",
       "file": "cross-domain/Ambient-Activity-Memory-to-Compliance-Audit-Trails.md",
       "title": "Ambient Activity Memory → Compliance Audit Trails"
+    },
+    {
+      "id": "benchmark-driven-routing-to-investment-research",
+      "type": "cross-domain",
+      "name": "Benchmark-Driven Routing → Investment Research",
+      "source_domain": "AI / Voice Infrastructure",
+      "target_domain": "Investment Research",
+      "source_pattern": "patterns/Benchmark-Driven-Routing.md",
+      "status": "hypothesis",
+      "last_updated": "2026-08-19",
+      "file": "cross-domain/Benchmark-Driven-Routing-to-Investment-Research.md",
+      "title": "Benchmark-Driven Routing → Investment Research"
     },
     {
       "id": "capability-gated-release-to-financial-products",

@@ -1,8 +1,8 @@
 {
   "schema": "APIE-Top100-Watchlist-v0",
-  "generated_at": "2026-08-18",
-  "count": 43,
-  "notes": "Curated watchlist. Products graduate to a full teardown in products/ when a teardown is published. Day 010 Kimi Work teardown 2026-08-18.",
+  "generated_at": "2026-08-19",
+  "count": 46,
+  "notes": "Curated watchlist. Products graduate to a full teardown in products/ when a teardown is published. Day 011 Speko teardown 2026-08-19.",
   "items": [
     {
       "rank": 1,
@@ -280,8 +280,8 @@
       "rank": 35,
       "name": "OpenClaw",
       "category": "AI",
-      "reason": "Open-source personal AI assistant, any OS/platform; local gateway + skill ecosystem, ~386K stars (GitHub Trending, Aug 16 2026)",
-      "status": "planned",
+ "reason": "Day 009 teardown 2026-08-17: open-source personal AI assistant, any OS/platform; local gateway + skill ecosystem, ~386K stars (GitHub Trending, Aug 16 2026)",
+ "status": "teardown-done",
       "added": "2026-08-16"
     },
     {
@@ -336,17 +336,41 @@
       "rank": 42,
       "name": "Speko",
       "category": "AI",
-      "reason": "YC S26 \"OpenRouter for Voice AI\": benchmark-driven routing across 15+ STT/TTS providers, one API, MIT gateway + paid hosted router; Launch HN 2026-08-17 (90 pts)",
-      "status": "planned",
+ "reason": "Day 011 teardown 2026-08-19: YC S26 \"OpenRouter for Voice AI\": benchmark-driven routing across 15+ STT/TTS providers, one API, MIT gateway + paid hosted router; Launch HN 2026-08-17 (90 pts)",
+ "status": "teardown-done",
       "added": "2026-08-18"
-    },
-    {
-      "rank": 43,
+ },
+  {
+   "rank": 43,
       "name": "Xaidr",
       "category": "AI",
       "reason": "In-process runtime security & governance for AI agents, zero-dependency, Apache-2.0 (delphisecurity/xaidr, 23 stars); agent-governance signal from HN 2026-08-17",
       "status": "planned",
-      "added": "2026-08-18"
-    }
-  ]
+   "added": "2026-08-18"
+  },
+  {
+   "rank": 44,
+   "name": "claude-mem",
+   "category": "AI",
+   "reason": "Persistent context across sessions for every agent: captures agent sessions, compresses with AI, reinjects relevant context; ~91K stars (GitHub Trending Aug 18 2026); Memory pattern at the agent-OS layer",
+   "status": "planned",
+   "added": "2026-08-19"
+  },
+  {
+   "rank": 45,
+   "name": "gemini-cli",
+   "category": "AI",
+   "reason": "Google's official open-source terminal agent bringing Gemini to the CLI; ~106K stars (GitHub Trending Aug 18 2026); frontier-lab CLI race signal (vs OpenAI Codex CLI, Claude Code)",
+   "status": "planned",
+   "added": "2026-08-19"
+  },
+  {
+   "rank": 46,
+   "name": "caveman",
+   "category": "AI",
+   "reason": "Viral Claude Code skill claiming ~65% token cuts by aggressive terse style; ~98K stars (GitHub Trending Aug 18 2026); Context-Economy Engineering as consumer meme",
+   "status": "planned",
+   "added": "2026-08-19"
+  }
+ ]
 }

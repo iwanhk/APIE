@@ -17,6 +17,7 @@ The part of APIE no one else builds: mechanisms proven in one industry, transpla
 | Context-Economy Engineering → Mobile Markets | hypothesis | [Context-Economy-Engineering-to-Mobile-Markets.md](Context-Economy-Engineering-to-Mobile-Markets.md) |
 | Agent Skill Marketplace → Regulatory Compliance Packs | hypothesis | [Agent-Skill-Marketplace-to-Regulatory-Compliance-Packs.md](Agent-Skill-Marketplace-to-Regulatory-Compliance-Packs.md) |
 | Session-as-Artifact → Investment Decision Audits | hypothesis | [Session-as-Artifact-to-Investment-Decision-Audits.md](Session-as-Artifact-to-Investment-Decision-Audits.md) |
+| Benchmark-Driven Routing → Investment Research | hypothesis | [Benchmark-Driven-Routing-to-Investment-Research.md](Benchmark-Driven-Routing-to-Investment-Research.md) |
 
 ## Queued Transfers
 

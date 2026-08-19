@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Product-Schema-v1",
-  "generated_at": "2026-08-18T01:06:15Z",
-  "count": 11,
+  "generated_at": "2026-08-19T02:08:49Z",
+  "count": 12,
   "items": [
     {
       "id": "chatgpt",
@@ -346,6 +346,42 @@
       ],
       "file": "products/AI/Replit.md",
       "title": "Replit"
+    },
+    {
+      "id": "speko",
+      "type": "product",
+      "name": "Speko",
+      "category": "AI",
+      "company": "Speko (San Francisco)",
+      "founded": "2026",
+      "status": "active",
+      "tags": [
+        "voice-ai",
+        "model-router",
+        "benchmarks",
+        "stt",
+        "tts",
+        "llm",
+        "gateway",
+        "yc",
+        "api"
+      ],
+      "last_updated": "2026-08-19",
+      "sources": [
+        "https://speko.ai/",
+        "https://news.ycombinator.com/item?id=49332751",
+        "https://www.ycombinator.com/companies/speko",
+        "https://runtimewire.com/article/speko-voice-ai-router-language-benchmarks",
+        "https://runtimewire.com/article/speko-launches-benchmark-router-voice-ai-models",
+        "https://topaiproduct.com/2026/08/17/speko-yc-s26-openrouter-for-voice-ai-61-models-benchmarked-usage-up-25-a-week/",
+        "https://github.com/SpekoAI/gateway",
+        "https://www.ic.work/article/speko-voice-ai-router-benchmark-trust",
+        "https://aiproducthub.cn/launch/p/25580.html",
+        "https://pivot.uz/uzbek-founded-speko-launches-ai-voice-routing-platform-after-joining-y-combinator/",
+        "https://www.npmjs.com/package/@spekoai/sdk"
+      ],
+      "file": "products/AI/Speko.md",
+      "title": "Speko"
     },
     {
       "id": "windsurf",

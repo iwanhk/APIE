@@ -1,7 +1,7 @@
 {
   "schema": "APIE-Pattern-Schema-v1",
-  "generated_at": "2026-08-18T01:06:15Z",
-  "count": 17,
+  "generated_at": "2026-08-19T02:08:49Z",
+  "count": 18,
   "items": [
     {
       "id": "ai-proctored-vetting",
@@ -54,6 +54,25 @@
       "last_updated": "2026-08-15",
       "file": "patterns/Ambient-Activity-Memory.md",
       "title": "Ambient Activity Memory"
+    },
+    {
+      "id": "benchmark-driven-routing",
+      "type": "pattern",
+      "name": "Benchmark-Driven-Routing",
+      "status": "emerging",
+      "tags": [
+        "ai",
+        "routing",
+        "benchmarks",
+        "evals",
+        "voice",
+        "llm",
+        "gateway",
+        "infrastructure"
+      ],
+      "last_updated": "2026-08-19",
+      "file": "patterns/Benchmark-Driven-Routing.md",
+      "title": "Benchmark-Driven-Routing"
     },
     {
       "id": "capability-gated-release",
@@ -182,7 +201,7 @@
         "developer-platform",
         "network-effects"
       ],
-      "last_updated": "2026-08-17",
+      "last_updated": "2026-08-19",
       "file": "patterns/Open-Protocol-Ecosystem.md",
       "title": "Open Protocol Ecosystem"
     },
